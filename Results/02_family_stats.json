@@ -1,0 +1,4719 @@
+[
+  {
+    "family_id": 0,
+    "size": 4,
+    "mean_sim": 0.4835458993911743,
+    "min_sim": 0.3752528429031372,
+    "max_sim": 0.7433541417121887,
+    "tightness": "loose",
+    "rep_skills": [
+      "convert-date",
+      "get-dates",
+      "reverse-month"
+    ]
+  },
+  {
+    "family_id": 1,
+    "size": 3,
+    "mean_sim": 0.5843517184257507,
+    "min_sim": 0.5749667882919312,
+    "max_sim": 0.5891900062561035,
+    "tightness": "loose",
+    "rep_skills": [
+      "s124-nav-warnings",
+      "s111-surface-currents",
+      "s131-marine-harbour"
+    ]
+  },
+  {
+    "family_id": 2,
+    "size": 3,
+    "mean_sim": 0.6947888731956482,
+    "min_sim": 0.5550192594528198,
+    "max_sim": 0.9420652985572815,
+    "tightness": "loose",
+    "rep_skills": [
+      "cellular-senescence-agent",
+      "cellular-senescence-agent",
+      "tme-immune-profiling-agent"
+    ]
+  },
+  {
+    "family_id": 3,
+    "size": 3,
+    "mean_sim": 0.8166525959968567,
+    "min_sim": 0.797080397605896,
+    "max_sim": 0.852685272693634,
+    "tightness": "tight",
+    "rep_skills": [
+      "quant-real-factor-10d-compressed-return-momentum",
+      "quant-real-factor-10d-z-scored-trend-efficiency",
+      "quant-real-factor-7d-compressed-return-reversal"
+    ]
+  },
+  {
+    "family_id": 4,
+    "size": 5,
+    "mean_sim": 0.5936534404754639,
+    "min_sim": 0.35237419605255127,
+    "max_sim": 0.9618903994560242,
+    "tightness": "loose",
+    "rep_skills": [
+      "scope",
+      "freeze",
+      "freeze"
+    ]
+  },
+  {
+    "family_id": 5,
+    "size": 4,
+    "mean_sim": 0.5467178225517273,
+    "min_sim": 0.37277984619140625,
+    "max_sim": 0.7003359794616699,
+    "tightness": "loose",
+    "rep_skills": [
+      "jama-oncology",
+      "bio-liquid-biopsy-pipeline",
+      "tooluniverse-precision-oncology"
+    ]
+  },
+  {
+    "family_id": 6,
+    "size": 3,
+    "mean_sim": 0.5002397894859314,
+    "min_sim": 0.4623563885688782,
+    "max_sim": 0.5583152770996094,
+    "tightness": "loose",
+    "rep_skills": [
+      "create-hook",
+      "onesignal-setup",
+      "cursor-api-key-management"
+    ]
+  },
+  {
+    "family_id": 7,
+    "size": 5,
+    "mean_sim": 0.6218156814575195,
+    "min_sim": 0.4248620569705963,
+    "max_sim": 0.7888723611831665,
+    "tightness": "loose",
+    "rep_skills": [
+      "trinity-control-tower-v13-integration",
+      "v111-trinity-gmut-qcit-claim-evidence-gate-skill-11",
+      "v117-trinity-eureka-report-density-gate-skill-19"
+    ]
+  },
+  {
+    "family_id": 8,
+    "size": 3,
+    "mean_sim": 0.4963946044445038,
+    "min_sim": 0.48740845918655396,
+    "max_sim": 0.5116868615150452,
+    "tightness": "loose",
+    "rep_skills": [
+      "clockify",
+      "punch"
+    ]
+  },
+  {
+    "family_id": 9,
+    "size": 4,
+    "mean_sim": 0.7673885226249695,
+    "min_sim": 0.6849850416183472,
+    "max_sim": 0.8121986389160156,
+    "tightness": "loose",
+    "rep_skills": [
+      "theater-maritime-fuel-blending-and-quality-assurance-cell",
+      "strategic-deterrence-signaling-and-messaging-integrity-cell",
+      "theater-lpi-lpd-sensor-fusion-and-emission-window-cell"
+    ]
+  },
+  {
+    "family_id": 10,
+    "size": 3,
+    "mean_sim": 0.5971029996871948,
+    "min_sim": 0.5883921384811401,
+    "max_sim": 0.6090667843818665,
+    "tightness": "loose",
+    "rep_skills": [
+      "dialyzer-configuration",
+      "elixir-cyclic-deps",
+      "phx:init"
+    ]
+  },
+  {
+    "family_id": 11,
+    "size": 3,
+    "mean_sim": 0.45599615573883057,
+    "min_sim": 0.32084566354751587,
+    "max_sim": 0.5385159254074097,
+    "tightness": "loose",
+    "rep_skills": [
+      "bio-spatial-transcriptomics-spatial-domains",
+      "spatial-transcriptomics",
+      "seurat-multimodal-analysis"
+    ]
+  },
+  {
+    "family_id": 12,
+    "size": 3,
+    "mean_sim": 0.5623100399971008,
+    "min_sim": 0.45360660552978516,
+    "max_sim": 0.6596624851226807,
+    "tightness": "loose",
+    "rep_skills": [
+      "cfo-comptabilite",
+      "legal-5step-framework",
+      "implement-feature"
+    ]
+  },
+  {
+    "family_id": 13,
+    "size": 6,
+    "mean_sim": 0.3870742917060852,
+    "min_sim": 0.168704554438591,
+    "max_sim": 0.5941754579544067,
+    "tightness": "loose",
+    "rep_skills": [
+      "macro-rates-monitor",
+      "lookahead-safety",
+      "analyzing-sustainable-debt-structures"
+    ]
+  },
+  {
+    "family_id": 14,
+    "size": 6,
+    "mean_sim": 0.5105195641517639,
+    "min_sim": 0.2677611708641052,
+    "max_sim": 0.6474704146385193,
+    "tightness": "loose",
+    "rep_skills": [
+      "protein-structure-prediction",
+      "esm-inference",
+      "protein_solubility_optimization"
+    ]
+  },
+  {
+    "family_id": 15,
+    "size": 3,
+    "mean_sim": 0.40619316697120667,
+    "min_sim": 0.3118289113044739,
+    "max_sim": 0.5732662081718445,
+    "tightness": "loose",
+    "rep_skills": [
+      "fork-terminal",
+      "bill-gates",
+      "autonomous-programmer"
+    ]
+  },
+  {
+    "family_id": 16,
+    "size": 14,
+    "mean_sim": 0.49534136056900024,
+    "min_sim": 0.16404476761817932,
+    "max_sim": 0.7314175367355347,
+    "tightness": "loose",
+    "rep_skills": [
+      "update-skill",
+      "legal",
+      "role-compile"
+    ]
+  },
+  {
+    "family_id": 17,
+    "size": 3,
+    "mean_sim": 0.5762068629264832,
+    "min_sim": 0.5582737326622009,
+    "max_sim": 0.5910851955413818,
+    "tightness": "loose",
+    "rep_skills": [
+      "architectural-planning",
+      "requirements_approve",
+      "python-type-refactor"
+    ]
+  },
+  {
+    "family_id": 18,
+    "size": 4,
+    "mean_sim": 0.6805937886238098,
+    "min_sim": 0.624061107635498,
+    "max_sim": 0.7368259429931641,
+    "tightness": "loose",
+    "rep_skills": [
+      "notion-pages",
+      "notion-management",
+      "notion"
+    ]
+  },
+  {
+    "family_id": 19,
+    "size": 4,
+    "mean_sim": 0.5586112141609192,
+    "min_sim": 0.3218720257282257,
+    "max_sim": 0.9776554107666016,
+    "tightness": "loose",
+    "rep_skills": [
+      "quantum-specialized-skill-293",
+      "quantum-on-hardware-qnn-training",
+      "quantum-specialized-skill-15"
+    ]
+  },
+  {
+    "family_id": 20,
+    "size": 5,
+    "mean_sim": 0.5885387063026428,
+    "min_sim": 0.4101317822933197,
+    "max_sim": 0.8497869372367859,
+    "tightness": "loose",
+    "rep_skills": [
+      "pathmc",
+      "pymc-bayesian-modeling",
+      "pymol-scripting"
+    ]
+  },
+  {
+    "family_id": 21,
+    "size": 4,
+    "mean_sim": 0.5834603309631348,
+    "min_sim": 0.45252788066864014,
+    "max_sim": 0.77046799659729,
+    "tightness": "loose",
+    "rep_skills": [
+      "memory-exchange",
+      "memory-forensics",
+      "analyzing-heap-spray-exploitation"
+    ]
+  },
+  {
+    "family_id": 22,
+    "size": 6,
+    "mean_sim": 0.6149525046348572,
+    "min_sim": 0.507051408290863,
+    "max_sim": 0.7974562048912048,
+    "tightness": "loose",
+    "rep_skills": [
+      "modeling-transaction-financing-structures",
+      "compare-term-sheet-against-engagement-letter",
+      "draft-commitment-letter"
+    ]
+  },
+  {
+    "family_id": 23,
+    "size": 3,
+    "mean_sim": 0.4407012164592743,
+    "min_sim": 0.3001061975955963,
+    "max_sim": 0.6155712604522705,
+    "tightness": "loose",
+    "rep_skills": [
+      "qsd-remove-workspace",
+      "gsd-remove-workspace",
+      "deva-clean"
+    ]
+  },
+  {
+    "family_id": 24,
+    "size": 4,
+    "mean_sim": 0.7473065853118896,
+    "min_sim": 0.695720374584198,
+    "max_sim": 0.7959607839584351,
+    "tightness": "loose",
+    "rep_skills": [
+      "deploymentscriptsclient",
+      "azure-sql-database-replication-links",
+      "networkmanagementclient"
+    ]
+  },
+  {
+    "family_id": 25,
+    "size": 3,
+    "mean_sim": 0.6089962720870972,
+    "min_sim": 0.5382305383682251,
+    "max_sim": 0.7275823354721069,
+    "tightness": "loose",
+    "rep_skills": [
+      "agency-sales-engineer",
+      "agency-deal-strategist",
+      "Deal Strategist"
+    ]
+  },
+  {
+    "family_id": 26,
+    "size": 8,
+    "mean_sim": 0.6644487977027893,
+    "min_sim": 0.4082658886909485,
+    "max_sim": 0.8429334163665771,
+    "tightness": "loose",
+    "rep_skills": [
+      "SakThai-understand-caveman",
+      "caveman",
+      "caveman"
+    ]
+  },
+  {
+    "family_id": 27,
+    "size": 3,
+    "mean_sim": 0.7382230162620544,
+    "min_sim": 0.7233564853668213,
+    "max_sim": 0.7479953765869141,
+    "tightness": "loose",
+    "rep_skills": [
+      "bio-methylation-calling",
+      "methylation-variability-analysis",
+      "epigenomics-methylgpt-agent"
+    ]
+  },
+  {
+    "family_id": 28,
+    "size": 3,
+    "mean_sim": 0.6022056937217712,
+    "min_sim": 0.5546200275421143,
+    "max_sim": 0.6787114143371582,
+    "tightness": "loose",
+    "rep_skills": [
+      "progress",
+      "gsd-next",
+      "gsd-next"
+    ]
+  },
+  {
+    "family_id": 29,
+    "size": 3,
+    "mean_sim": 0.6803937554359436,
+    "min_sim": 0.5781862735748291,
+    "max_sim": 0.8425909876823425,
+    "tightness": "loose",
+    "rep_skills": [
+      "gsd-help",
+      "gsd-help",
+      "gsd-help"
+    ]
+  },
+  {
+    "family_id": 30,
+    "size": 3,
+    "mean_sim": 0.5968120694160461,
+    "min_sim": 0.5230820775032043,
+    "max_sim": 0.6717894077301025,
+    "tightness": "loose",
+    "rep_skills": [
+      "vim-neovim",
+      "nvim-plugin-add",
+      "nixvim-add-plugin"
+    ]
+  },
+  {
+    "family_id": 31,
+    "size": 10,
+    "mean_sim": 0.5489494800567627,
+    "min_sim": 0.3710460364818573,
+    "max_sim": 0.7461411952972412,
+    "tightness": "loose",
+    "rep_skills": [
+      "coding-kotlin",
+      "kotlin-multiplatform-feature-scaffold",
+      "kmp-ios"
+    ]
+  },
+  {
+    "family_id": 32,
+    "size": 4,
+    "mean_sim": 0.5637980103492737,
+    "min_sim": 0.4834812879562378,
+    "max_sim": 0.621428906917572,
+    "tightness": "loose",
+    "rep_skills": [
+      "hisat2-build-s",
+      "bio-splicing-pipeline",
+      "bio-chip-seq-motif-analysis"
+    ]
+  },
+  {
+    "family_id": 33,
+    "size": 3,
+    "mean_sim": 0.6105448603630066,
+    "min_sim": 0.5405046939849854,
+    "max_sim": 0.6988680362701416,
+    "tightness": "loose",
+    "rep_skills": [
+      "delight",
+      "whimsy-injector",
+      "delight"
+    ]
+  },
+  {
+    "family_id": 34,
+    "size": 6,
+    "mean_sim": 0.6647933125495911,
+    "min_sim": 0.2968900203704834,
+    "max_sim": 0.9764417409896851,
+    "tightness": "loose",
+    "rep_skills": [
+      "gsd-manager",
+      "claw-mux",
+      "gsd-manager"
+    ]
+  },
+  {
+    "family_id": 35,
+    "size": 3,
+    "mean_sim": 0.512324869632721,
+    "min_sim": 0.4205407500267029,
+    "max_sim": 0.6104176640510559,
+    "tightness": "loose",
+    "rep_skills": [
+      "charles-proxy-extract",
+      "internal-site-analysis",
+      "mitm-inspect"
+    ]
+  },
+  {
+    "family_id": 36,
+    "size": 4,
+    "mean_sim": 0.7123861312866211,
+    "min_sim": 0.588865339756012,
+    "max_sim": 0.8887733817100525,
+    "tightness": "loose",
+    "rep_skills": [
+      "implementing-security-information-sharing-with-stix2",
+      "implementing-stix-taxii-feed-integration",
+      "evaluating-threat-intelligence-platforms"
+    ]
+  },
+  {
+    "family_id": 37,
+    "size": 4,
+    "mean_sim": 0.5451763272285461,
+    "min_sim": 0.5261308550834656,
+    "max_sim": 0.5692176222801208,
+    "tightness": "loose",
+    "rep_skills": [
+      "pine-script",
+      "create-strategy",
+      "backtest"
+    ]
+  },
+  {
+    "family_id": 38,
+    "size": 3,
+    "mean_sim": 0.5322098135948181,
+    "min_sim": 0.45839691162109375,
+    "max_sim": 0.6619592308998108,
+    "tightness": "loose",
+    "rep_skills": [
+      "1password",
+      "1password",
+      "bitwarden"
+    ]
+  },
+  {
+    "family_id": 39,
+    "size": 3,
+    "mean_sim": 0.6681085228919983,
+    "min_sim": 0.6436297297477722,
+    "max_sim": 0.6884365081787109,
+    "tightness": "loose",
+    "rep_skills": [
+      "adopt-workflow",
+      "use-n8n",
+      "n8n-architect"
+    ]
+  },
+  {
+    "family_id": 40,
+    "size": 3,
+    "mean_sim": 0.533498227596283,
+    "min_sim": 0.479793906211853,
+    "max_sim": 0.5970391631126404,
+    "tightness": "loose",
+    "rep_skills": [
+      "privacy-risk-assessment",
+      "Vendor Privacy Diligence",
+      "data-privacy-review"
+    ]
+  },
+  {
+    "family_id": 41,
+    "size": 6,
+    "mean_sim": 0.48125940561294556,
+    "min_sim": 0.33823519945144653,
+    "max_sim": 0.6518152952194214,
+    "tightness": "loose",
+    "rep_skills": [
+      "threejs-game",
+      "custom-glsl-shaders",
+      "threejs-postprocessing-v2"
+    ]
+  },
+  {
+    "family_id": 42,
+    "size": 4,
+    "mean_sim": 0.46811148524284363,
+    "min_sim": 0.28902608156204224,
+    "max_sim": 0.7978537678718567,
+    "tightness": "loose",
+    "rep_skills": [
+      "mobile-offline-support",
+      "supabase-offline-sync",
+      "android-data-layer"
+    ]
+  },
+  {
+    "family_id": 43,
+    "size": 3,
+    "mean_sim": 0.6656229496002197,
+    "min_sim": 0.5582386255264282,
+    "max_sim": 0.8742479681968689,
+    "tightness": "loose",
+    "rep_skills": [
+      "gsd-audit-uat",
+      "gsd-audit-uat",
+      "gsd-add-tests"
+    ]
+  },
+  {
+    "family_id": 44,
+    "size": 3,
+    "mean_sim": 0.6551089882850647,
+    "min_sim": 0.6457860469818115,
+    "max_sim": 0.6732556223869324,
+    "tightness": "loose",
+    "rep_skills": [
+      "deno",
+      "pdf-deno-config",
+      "cli"
+    ]
+  },
+  {
+    "family_id": 45,
+    "size": 4,
+    "mean_sim": 0.5587782859802246,
+    "min_sim": 0.45342499017715454,
+    "max_sim": 0.8012426495552063,
+    "tightness": "loose",
+    "rep_skills": [
+      "Responsive Breakpoint Advisor",
+      "responsive-layout-engine",
+      "adapt"
+    ]
+  },
+  {
+    "family_id": 46,
+    "size": 5,
+    "mean_sim": 0.5776901245117188,
+    "min_sim": 0.39370274543762207,
+    "max_sim": 0.6733348965644836,
+    "tightness": "loose",
+    "rep_skills": [
+      "chemical-class-metadata-integration",
+      "molecular-structure-to-graph-conversion",
+      "rdkit"
+    ]
+  },
+  {
+    "family_id": 47,
+    "size": 3,
+    "mean_sim": 0.5351369976997375,
+    "min_sim": 0.303631067276001,
+    "max_sim": 0.9727667570114136,
+    "tightness": "loose",
+    "rep_skills": [
+      "game-design",
+      "multiplayer",
+      "multiplayer"
+    ]
+  },
+  {
+    "family_id": 48,
+    "size": 3,
+    "mean_sim": 0.6893942356109619,
+    "min_sim": 0.6546247601509094,
+    "max_sim": 0.716932475566864,
+    "tightness": "loose",
+    "rep_skills": [
+      "ansible-dev",
+      "atmos-ansible",
+      "Ansible Playbook Diagnostics Runner"
+    ]
+  },
+  {
+    "family_id": 49,
+    "size": 3,
+    "mean_sim": 0.6845976710319519,
+    "min_sim": 0.5673489570617676,
+    "max_sim": 0.8866783380508423,
+    "tightness": "loose",
+    "rep_skills": [
+      "implementing-canary-tokens-for-network-intrusion",
+      "configuring-suricata-for-network-monitoring",
+      "implementing-deception-based-detection-with-canarytoken"
+    ]
+  },
+  {
+    "family_id": 50,
+    "size": 15,
+    "mean_sim": 0.4213555157184601,
+    "min_sim": 0.11142917722463608,
+    "max_sim": 0.88594651222229,
+    "tightness": "loose",
+    "rep_skills": [
+      "market",
+      "portfolio-tracker",
+      "risk-management"
+    ]
+  },
+  {
+    "family_id": 51,
+    "size": 3,
+    "mean_sim": 0.5845000743865967,
+    "min_sim": 0.43209171295166016,
+    "max_sim": 0.8113294839859009,
+    "tightness": "loose",
+    "rep_skills": [
+      "fai-gtm-launch",
+      "187launch",
+      "187launch"
+    ]
+  },
+  {
+    "family_id": 52,
+    "size": 6,
+    "mean_sim": 0.530708372592926,
+    "min_sim": 0.37451761960983276,
+    "max_sim": 0.7264434695243835,
+    "tightness": "loose",
+    "rep_skills": [
+      "Ddd Strategic Design",
+      "agent-domain-driven-design-v3",
+      "ddd-tactical-patterns"
+    ]
+  },
+  {
+    "family_id": 53,
+    "size": 3,
+    "mean_sim": 0.6326694488525391,
+    "min_sim": 0.5523741245269775,
+    "max_sim": 0.6830002665519714,
+    "tightness": "loose",
+    "rep_skills": [
+      "oc-comfyui-local",
+      "comfyui",
+      "comfyui"
+    ]
+  },
+  {
+    "family_id": 54,
+    "size": 9,
+    "mean_sim": 0.4992097318172455,
+    "min_sim": 0.23865783214569092,
+    "max_sim": 0.7941766977310181,
+    "tightness": "loose",
+    "rep_skills": [
+      "u04425-experiment-design-for-nutrition-and-meal-planning",
+      "u09145-public-service-coordination-for-community-mediation-programs",
+      "mediation-guide"
+    ]
+  },
+  {
+    "family_id": 55,
+    "size": 3,
+    "mean_sim": 0.6029640436172485,
+    "min_sim": 0.5595186948776245,
+    "max_sim": 0.6582474708557129,
+    "tightness": "loose",
+    "rep_skills": [
+      "self-improving-negotiation",
+      "negotiation-prep",
+      "influence-and-negotiation"
+    ]
+  },
+  {
+    "family_id": 56,
+    "size": 3,
+    "mean_sim": 0.6159980893135071,
+    "min_sim": 0.6102976202964783,
+    "max_sim": 0.6203501224517822,
+    "tightness": "loose",
+    "rep_skills": [
+      "godot-engineer",
+      "game-development",
+      "godot-scaffold"
+    ]
+  },
+  {
+    "family_id": 57,
+    "size": 3,
+    "mean_sim": 0.5460004210472107,
+    "min_sim": 0.4652866721153259,
+    "max_sim": 0.69153892993927,
+    "tightness": "loose",
+    "rep_skills": [
+      "structuring-joint-venture-governance",
+      "consulting-frameworks",
+      "business-partnership-navigator"
+    ]
+  },
+  {
+    "family_id": 58,
+    "size": 3,
+    "mean_sim": 0.5068998336791992,
+    "min_sim": 0.4360150098800659,
+    "max_sim": 0.6257954835891724,
+    "tightness": "loose",
+    "rep_skills": [
+      "franken-adapter-eval",
+      "evaluate-ai-translation-engine",
+      "trec2022-neuclir-eval"
+    ]
+  },
+  {
+    "family_id": 59,
+    "size": 4,
+    "mean_sim": 0.6426879167556763,
+    "min_sim": 0.5495977401733398,
+    "max_sim": 0.9188402891159058,
+    "tightness": "loose",
+    "rep_skills": [
+      "colorize",
+      "color-hierarchy-resolution",
+      "colorize"
+    ]
+  },
+  {
+    "family_id": 60,
+    "size": 4,
+    "mean_sim": 0.9070777893066406,
+    "min_sim": 0.855708658695221,
+    "max_sim": 0.974747896194458,
+    "tightness": "tight",
+    "rep_skills": [
+      "nano-pdf",
+      "nano-pdf",
+      "nano-pdf"
+    ]
+  },
+  {
+    "family_id": 61,
+    "size": 4,
+    "mean_sim": 0.4918014705181122,
+    "min_sim": 0.23907998204231262,
+    "max_sim": 1.0,
+    "tightness": "loose",
+    "rep_skills": [
+      "tator-trader",
+      "tator-trader",
+      "market-sizing-analysis"
+    ]
+  },
+  {
+    "family_id": 62,
+    "size": 5,
+    "mean_sim": 0.4718145728111267,
+    "min_sim": 0.260774701833725,
+    "max_sim": 0.6756476163864136,
+    "tightness": "loose",
+    "rep_skills": [
+      "sap-mm",
+      "revops",
+      "roots-feedback-05-sales-process"
+    ]
+  },
+  {
+    "family_id": 63,
+    "size": 3,
+    "mean_sim": 0.6569215655326843,
+    "min_sim": 0.5651980638504028,
+    "max_sim": 0.8210320472717285,
+    "tightness": "loose",
+    "rep_skills": [
+      "flugportal-vergleich-pruefen",
+      "vdg-097-flugportal-vergleich-pruefen",
+      "vergleich-und-pruefungsrecht"
+    ]
+  },
+  {
+    "family_id": 64,
+    "size": 7,
+    "mean_sim": 0.5730666518211365,
+    "min_sim": 0.5069762468338013,
+    "max_sim": 0.7169281840324402,
+    "tightness": "loose",
+    "rep_skills": [
+      "fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung",
+      "gerichtliche-nachforderung",
+      "aussetzung-vollziehung"
+    ]
+  },
+  {
+    "family_id": 65,
+    "size": 4,
+    "mean_sim": 0.8218541145324707,
+    "min_sim": 0.6650003790855408,
+    "max_sim": 0.9748638868331909,
+    "tightness": "tight",
+    "rep_skills": [
+      "workflow-unterlagen-lueckenliste",
+      "workflow-unterlagen-lueckenliste",
+      "verlage-dokumentenmatrix-und-lueckenliste"
+    ]
+  },
+  {
+    "family_id": 66,
+    "size": 8,
+    "mean_sim": 0.5745359063148499,
+    "min_sim": 0.405431866645813,
+    "max_sim": 0.7963203191757202,
+    "tightness": "loose",
+    "rep_skills": [
+      "rezeptsammelstelle-botendienst-versandhandel",
+      "aufbewahrung-pruefungsakte-kammerantwort",
+      "abmahnung-97a-response"
+    ]
+  },
+  {
+    "family_id": 67,
+    "size": 3,
+    "mean_sim": 0.7042587399482727,
+    "min_sim": 0.627536952495575,
+    "max_sim": 0.7492960691452026,
+    "tightness": "loose",
+    "rep_skills": [
+      "branch-merge",
+      "jj",
+      "jujutsu"
+    ]
+  },
+  {
+    "family_id": 68,
+    "size": 55,
+    "mean_sim": 0.5624160170555115,
+    "min_sim": 0.3099151849746704,
+    "max_sim": 0.8283778429031372,
+    "tightness": "loose",
+    "rep_skills": [
+      "fallloesung-historischer",
+      "statusbescheid-bestandskraft",
+      "laienhilfe-hilfsmittel-ablehnung"
+    ]
+  },
+  {
+    "family_id": 69,
+    "size": 4,
+    "mean_sim": 0.5552650094032288,
+    "min_sim": 0.4601573348045349,
+    "max_sim": 0.6715661883354187,
+    "tightness": "loose",
+    "rep_skills": [
+      "scaffold-feature",
+      "new",
+      "gemini-ai-service"
+    ]
+  },
+  {
+    "family_id": 70,
+    "size": 7,
+    "mean_sim": 0.6128438115119934,
+    "min_sim": 0.37441912293434143,
+    "max_sim": 0.9601266384124756,
+    "tightness": "loose",
+    "rep_skills": [
+      "cic-can-1090",
+      "cic-can-0837",
+      "cic-can-1380"
+    ]
+  },
+  {
+    "family_id": 71,
+    "size": 3,
+    "mean_sim": 0.6082797646522522,
+    "min_sim": 0.4842183589935303,
+    "max_sim": 0.8432746529579163,
+    "tightness": "loose",
+    "rep_skills": [
+      "insolvenznaehe",
+      "pralr-normblock-16401-16500",
+      "beschlussanfechtung"
+    ]
+  },
+  {
+    "family_id": 72,
+    "size": 9,
+    "mean_sim": 0.5314403772354126,
+    "min_sim": 0.3287157416343689,
+    "max_sim": 0.742928147315979,
+    "tightness": "loose",
+    "rep_skills": [
+      "interview-coach",
+      "cv-polish",
+      "tailored-resume-generator"
+    ]
+  },
+  {
+    "family_id": 73,
+    "size": 31,
+    "mean_sim": 0.5806253552436829,
+    "min_sim": 0.22600118815898895,
+    "max_sim": 0.8370150923728943,
+    "tightness": "loose",
+    "rep_skills": [
+      "custom-database-searching",
+      "file-interface-integration-and-extension",
+      "energy-based-formula-scoring"
+    ]
+  },
+  {
+    "family_id": 74,
+    "size": 6,
+    "mean_sim": 0.5051130652427673,
+    "min_sim": 0.2942073941230774,
+    "max_sim": 0.767450213432312,
+    "tightness": "loose",
+    "rep_skills": [
+      "monetizing-innovation",
+      "pricing-toolkit",
+      "paywall-upgrade-cro"
+    ]
+  },
+  {
+    "family_id": 75,
+    "size": 7,
+    "mean_sim": 0.557858943939209,
+    "min_sim": 0.31446200609207153,
+    "max_sim": 0.726594090461731,
+    "tightness": "loose",
+    "rep_skills": [
+      "scientific-biomedical-pubtator",
+      "pathway-enricher",
+      "reactome-database"
+    ]
+  },
+  {
+    "family_id": 76,
+    "size": 3,
+    "mean_sim": 0.504291832447052,
+    "min_sim": 0.4345785975456238,
+    "max_sim": 0.6099492311477661,
+    "tightness": "loose",
+    "rep_skills": [
+      "woocommerce",
+      "managing-woocommerce",
+      "WooCommerce Webhook Delivery Inspector"
+    ]
+  },
+  {
+    "family_id": 77,
+    "size": 3,
+    "mean_sim": 0.35449597239494324,
+    "min_sim": 0.2695924937725067,
+    "max_sim": 0.5233649015426636,
+    "tightness": "loose",
+    "rep_skills": [
+      "rust-cargo-lints-toml",
+      "nushell-env-proptest-cases",
+      "jj-command-describe"
+    ]
+  },
+  {
+    "family_id": 78,
+    "size": 7,
+    "mean_sim": 0.6542786955833435,
+    "min_sim": 0.35708150267601013,
+    "max_sim": 0.7770298719406128,
+    "tightness": "loose",
+    "rep_skills": [
+      "misty-seascape-monochrome-absolute-face-lock",
+      "old-portrait-photo-restoration-prompt",
+      "luxury-nightlife-editorial"
+    ]
+  },
+  {
+    "family_id": 79,
+    "size": 10,
+    "mean_sim": 0.5327421426773071,
+    "min_sim": 0.40417754650115967,
+    "max_sim": 0.6890245079994202,
+    "tightness": "loose",
+    "rep_skills": [
+      "tidy",
+      "trent-tmux",
+      "delegate-task"
+    ]
+  },
+  {
+    "family_id": 80,
+    "size": 3,
+    "mean_sim": 0.5167627930641174,
+    "min_sim": 0.4627807140350342,
+    "max_sim": 0.5564087629318237,
+    "tightness": "loose",
+    "rep_skills": [
+      "agency-legal-billing-time-tracking",
+      "bookkeeping-basics",
+      "accounts-receivable"
+    ]
+  },
+  {
+    "family_id": 81,
+    "size": 3,
+    "mean_sim": 0.8552524447441101,
+    "min_sim": 0.8390039801597595,
+    "max_sim": 0.8676587343215942,
+    "tightness": "tight",
+    "rep_skills": [
+      "remotion-engineer",
+      "cyber-intel",
+      "tdd-guide"
+    ]
+  },
+  {
+    "family_id": 82,
+    "size": 10,
+    "mean_sim": 0.6997988820075989,
+    "min_sim": 0.4847366213798523,
+    "max_sim": 0.8403775095939636,
+    "tightness": "loose",
+    "rep_skills": [
+      "Payment Integration",
+      "stripe",
+      "stripe-integration-expert"
+    ]
+  },
+  {
+    "family_id": 83,
+    "size": 5,
+    "mean_sim": 0.4831922948360443,
+    "min_sim": 0.2363651692867279,
+    "max_sim": 0.7584027647972107,
+    "tightness": "loose",
+    "rep_skills": [
+      "lang-zig",
+      "zfood-core",
+      "zig-programming"
+    ]
+  },
+  {
+    "family_id": 84,
+    "size": 3,
+    "mean_sim": 0.6616774201393127,
+    "min_sim": 0.5850263833999634,
+    "max_sim": 0.7044328451156616,
+    "tightness": "loose",
+    "rep_skills": [
+      "generate-anki",
+      "anki-export",
+      "anki-card-generator"
+    ]
+  },
+  {
+    "family_id": 85,
+    "size": 3,
+    "mean_sim": 0.6867802143096924,
+    "min_sim": 0.6680001616477966,
+    "max_sim": 0.7004823684692383,
+    "tightness": "loose",
+    "rep_skills": [
+      "u07958-attention-management-architecture-for-eldercare-coordination",
+      "u08957-ethical-dilemma-navigation-for-eldercare-coordination",
+      "u02156-tool-health-monitoring-for-eldercare-coordination"
+    ]
+  },
+  {
+    "family_id": 86,
+    "size": 5,
+    "mean_sim": 0.4661746025085449,
+    "min_sim": 0.1868228316307068,
+    "max_sim": 0.641342043876648,
+    "tightness": "loose",
+    "rep_skills": [
+      "ai-music-generation",
+      "suno-songwriter",
+      "explicit-checker"
+    ]
+  },
+  {
+    "family_id": 87,
+    "size": 3,
+    "mean_sim": 0.5912949442863464,
+    "min_sim": 0.5383155345916748,
+    "max_sim": 0.6601298451423645,
+    "tightness": "loose",
+    "rep_skills": [
+      "medium-posts-creator",
+      "blog-post-publishing",
+      "blog-post"
+    ]
+  },
+  {
+    "family_id": 88,
+    "size": 3,
+    "mean_sim": 0.6344796419143677,
+    "min_sim": 0.5248137712478638,
+    "max_sim": 0.7387040853500366,
+    "tightness": "loose",
+    "rep_skills": [
+      "saas-customer-analytics",
+      "saas-revenue-growth-metrics",
+      "saas-growth-metrics"
+    ]
+  },
+  {
+    "family_id": 89,
+    "size": 3,
+    "mean_sim": 0.6708559989929199,
+    "min_sim": 0.5982158780097961,
+    "max_sim": 0.7533929347991943,
+    "tightness": "loose",
+    "rep_skills": [
+      "ar-citation-verifier",
+      "citation-audit",
+      "source_verification"
+    ]
+  },
+  {
+    "family_id": 90,
+    "size": 3,
+    "mean_sim": 0.6031888723373413,
+    "min_sim": 0.5794446468353271,
+    "max_sim": 0.6351698637008667,
+    "tightness": "loose",
+    "rep_skills": [
+      "dbt-coder",
+      "using-dbt-for-analytics-engineering",
+      "data-quality"
+    ]
+  },
+  {
+    "family_id": 91,
+    "size": 3,
+    "mean_sim": 0.6507861018180847,
+    "min_sim": 0.5486773252487183,
+    "max_sim": 0.7612036466598511,
+    "tightness": "loose",
+    "rep_skills": [
+      "clip",
+      "clip",
+      "contextiq-retrieval-eval"
+    ]
+  },
+  {
+    "family_id": 92,
+    "size": 6,
+    "mean_sim": 0.6893842816352844,
+    "min_sim": 0.29869863390922546,
+    "max_sim": 0.9982762336730957,
+    "tightness": "loose",
+    "rep_skills": [
+      "fine-tuning-with-trl",
+      "peft-fine-tuning",
+      "practitioner-guide-multi-turn-agentic-rl"
+    ]
+  },
+  {
+    "family_id": 93,
+    "size": 4,
+    "mean_sim": 0.5715692043304443,
+    "min_sim": 0.3386416435241699,
+    "max_sim": 0.8261786699295044,
+    "tightness": "loose",
+    "rep_skills": [
+      "stata-r-translation",
+      "data-analysis",
+      "nature-figure"
+    ]
+  },
+  {
+    "family_id": 94,
+    "size": 8,
+    "mean_sim": 0.6547233462333679,
+    "min_sim": 0.41819465160369873,
+    "max_sim": 0.9985640645027161,
+    "tightness": "loose",
+    "rep_skills": [
+      "email-sequence",
+      "Email Marketing",
+      "email-sequence"
+    ]
+  },
+  {
+    "family_id": 95,
+    "size": 7,
+    "mean_sim": 0.4475780725479126,
+    "min_sim": 0.19728319346904755,
+    "max_sim": 0.7052909731864929,
+    "tightness": "loose",
+    "rep_skills": [
+      "mobile-platform-guardian",
+      "baskit-pr-review",
+      "aso-rules"
+    ]
+  },
+  {
+    "family_id": 96,
+    "size": 19,
+    "mean_sim": 0.37395933270454407,
+    "min_sim": 0.034405939280986786,
+    "max_sim": 0.8769100904464722,
+    "tightness": "loose",
+    "rep_skills": [
+      "temel-kavramlar-ve-sistem",
+      "hasta-haklari",
+      "ihale-sozlesmesi-4735"
+    ]
+  },
+  {
+    "family_id": 97,
+    "size": 3,
+    "mean_sim": 0.6032138466835022,
+    "min_sim": 0.5777291059494019,
+    "max_sim": 0.642116367816925,
+    "tightness": "loose",
+    "rep_skills": [
+      "robustmq-chaos-test",
+      "chaos-engineer",
+      "qa-resilience"
+    ]
+  },
+  {
+    "family_id": 98,
+    "size": 3,
+    "mean_sim": 0.7150699496269226,
+    "min_sim": 0.6561006307601929,
+    "max_sim": 0.745949923992157,
+    "tightness": "loose",
+    "rep_skills": [
+      "ralph",
+      "ralph",
+      "generating-prd-json-from-prd-md"
+    ]
+  },
+  {
+    "family_id": 99,
+    "size": 8,
+    "mean_sim": 0.44976162910461426,
+    "min_sim": 0.15224185585975647,
+    "max_sim": 0.9885239601135254,
+    "tightness": "loose",
+    "rep_skills": [
+      "Skill Factory",
+      "hermes-external-integration",
+      "hermes-agent"
+    ]
+  },
+  {
+    "family_id": 100,
+    "size": 8,
+    "mean_sim": 0.7329174876213074,
+    "min_sim": 0.5466902256011963,
+    "max_sim": 0.9993393421173096,
+    "tightness": "loose",
+    "rep_skills": [
+      "turborepo",
+      "turborepo",
+      "vscode-monorepo-forge"
+    ]
+  },
+  {
+    "family_id": 101,
+    "size": 4,
+    "mean_sim": 0.5500441193580627,
+    "min_sim": 0.39098411798477173,
+    "max_sim": 0.7337637543678284,
+    "tightness": "loose",
+    "rep_skills": [
+      "amann-submission",
+      "jimf-writing-style",
+      "jfqa-submission"
+    ]
+  },
+  {
+    "family_id": 102,
+    "size": 3,
+    "mean_sim": 0.7114936709403992,
+    "min_sim": 0.6609357595443726,
+    "max_sim": 0.7411869764328003,
+    "tightness": "loose",
+    "rep_skills": [
+      "u07516-autonomous-workflow-authoring-for-supply-chain-resilience",
+      "u01119-resource-budget-allocation-for-supply-chain-resilience",
+      "u05918-cost-benefit-forecasting-for-supply-chain-resilience"
+    ]
+  },
+  {
+    "family_id": 103,
+    "size": 3,
+    "mean_sim": 0.6884374022483826,
+    "min_sim": 0.5338672995567322,
+    "max_sim": 0.9958847761154175,
+    "tightness": "loose",
+    "rep_skills": [
+      "odoo-hr-payroll-setup",
+      "odoo-sales-crm-expert",
+      "odoo-hr-payroll-setup"
+    ]
+  },
+  {
+    "family_id": 104,
+    "size": 3,
+    "mean_sim": 0.5377681255340576,
+    "min_sim": 0.4916282892227173,
+    "max_sim": 0.6239544153213501,
+    "tightness": "loose",
+    "rep_skills": [
+      "implementing-continuous-security-validation-with-bas",
+      "containing-active-breach",
+      "post-exploitation"
+    ]
+  },
+  {
+    "family_id": 105,
+    "size": 3,
+    "mean_sim": 0.6842196583747864,
+    "min_sim": 0.6091351509094238,
+    "max_sim": 0.7279754281044006,
+    "tightness": "loose",
+    "rep_skills": [
+      "kafka-event-driven",
+      "event-driven-architect",
+      "spring-kafka"
+    ]
+  },
+  {
+    "family_id": 106,
+    "size": 7,
+    "mean_sim": 0.5217447280883789,
+    "min_sim": 0.28210440278053284,
+    "max_sim": 0.7996939420700073,
+    "tightness": "loose",
+    "rep_skills": [
+      "wandb",
+      "pytorch-patterns",
+      "ml-engineer"
+    ]
+  },
+  {
+    "family_id": 107,
+    "size": 6,
+    "mean_sim": 0.65611732006073,
+    "min_sim": 0.5291922092437744,
+    "max_sim": 0.8254426717758179,
+    "tightness": "loose",
+    "rep_skills": [
+      "cli-development",
+      "ekala-cmake-nix",
+      "nixos-best-practices"
+    ]
+  },
+  {
+    "family_id": 108,
+    "size": 3,
+    "mean_sim": 0.5416261553764343,
+    "min_sim": 0.5057151913642883,
+    "max_sim": 0.5725909471511841,
+    "tightness": "loose",
+    "rep_skills": [
+      "vuln-rediscovery",
+      "cve-testing",
+      "performing-cve-prioritization-with-kev-catalog"
+    ]
+  },
+  {
+    "family_id": 109,
+    "size": 3,
+    "mean_sim": 0.5978173613548279,
+    "min_sim": 0.5484335422515869,
+    "max_sim": 0.6400035619735718,
+    "tightness": "loose",
+    "rep_skills": [
+      "international-seo",
+      "blog-locale-audit",
+      "content-validator"
+    ]
+  },
+  {
+    "family_id": 110,
+    "size": 4,
+    "mean_sim": 0.48282817006111145,
+    "min_sim": 0.33962535858154297,
+    "max_sim": 0.6422756910324097,
+    "tightness": "loose",
+    "rep_skills": [
+      "plotly-chart-generator",
+      "d3-visualization",
+      "figure-legend-gen"
+    ]
+  },
+  {
+    "family_id": 111,
+    "size": 8,
+    "mean_sim": 0.7571004629135132,
+    "min_sim": 0.6049556732177734,
+    "max_sim": 0.9043872356414795,
+    "tightness": "loose",
+    "rep_skills": [
+      "attack-ent-t1564-001-hidden-files-and-directories",
+      "attack-ent-t1557-001-name-resolution-poisoning-and-smb-re",
+      "attack-ent-t1074-data-staged"
+    ]
+  },
+  {
+    "family_id": 112,
+    "size": 3,
+    "mean_sim": 0.7208213210105896,
+    "min_sim": 0.6337857246398926,
+    "max_sim": 0.7987518310546875,
+    "tightness": "loose",
+    "rep_skills": [
+      "testing-api-for-mass-assignment-vulnerability",
+      "exploiting-api-injection-vulnerabilities",
+      "exploiting-mass-assignment-in-rest-apis"
+    ]
+  },
+  {
+    "family_id": 113,
+    "size": 4,
+    "mean_sim": 0.4524926245212555,
+    "min_sim": 0.30852311849594116,
+    "max_sim": 0.6179202795028687,
+    "tightness": "loose",
+    "rep_skills": [
+      "onboard-dev",
+      "tapps-docs-bootstrap",
+      "local-dev-setup"
+    ]
+  },
+  {
+    "family_id": 114,
+    "size": 3,
+    "mean_sim": 0.5948730111122131,
+    "min_sim": 0.5127244591712952,
+    "max_sim": 0.666253387928009,
+    "tightness": "loose",
+    "rep_skills": [
+      "forms",
+      "volverjs-form-vue",
+      "yup"
+    ]
+  },
+  {
+    "family_id": 115,
+    "size": 4,
+    "mean_sim": 0.609626293182373,
+    "min_sim": 0.51800137758255,
+    "max_sim": 0.9904322624206543,
+    "tightness": "loose",
+    "rep_skills": [
+      "rb:research",
+      "skill-rails-upgrade",
+      "skill-rails-upgrade"
+    ]
+  },
+  {
+    "family_id": 116,
+    "size": 3,
+    "mean_sim": 0.6503105759620667,
+    "min_sim": 0.6001030802726746,
+    "max_sim": 0.7387863397598267,
+    "tightness": "loose",
+    "rep_skills": [
+      "langchain-core-workflow-a",
+      "langchain-development",
+      "langchain-architecture"
+    ]
+  },
+  {
+    "family_id": 117,
+    "size": 3,
+    "mean_sim": 0.5761538147926331,
+    "min_sim": 0.5209513306617737,
+    "max_sim": 0.6292116641998291,
+    "tightness": "loose",
+    "rep_skills": [
+      "douyin-downloader",
+      "content-analyzer",
+      "video-download"
+    ]
+  },
+  {
+    "family_id": 118,
+    "size": 3,
+    "mean_sim": 0.4486536979675293,
+    "min_sim": 0.3927568197250366,
+    "max_sim": 0.48483267426490784,
+    "tightness": "loose",
+    "rep_skills": [
+      "briefing",
+      "prompt_to_production",
+      "skill-creator"
+    ]
+  },
+  {
+    "family_id": 119,
+    "size": 6,
+    "mean_sim": 0.5470987558364868,
+    "min_sim": 0.4590311050415039,
+    "max_sim": 0.6571621298789978,
+    "tightness": "loose",
+    "rep_skills": [
+      "post-impl-validator",
+      "cfp-strategist",
+      "create-test-spec"
+    ]
+  },
+  {
+    "family_id": 120,
+    "size": 3,
+    "mean_sim": 0.4917486608028412,
+    "min_sim": 0.3702806234359741,
+    "max_sim": 0.7156020402908325,
+    "tightness": "loose",
+    "rep_skills": [
+      "ios-app-intents",
+      "notification-system",
+      "axiom-integration"
+    ]
+  },
+  {
+    "family_id": 121,
+    "size": 3,
+    "mean_sim": 0.8731014728546143,
+    "min_sim": 0.8536009192466736,
+    "max_sim": 0.9053125977516174,
+    "tightness": "tight",
+    "rep_skills": [
+      "incident-management-ops",
+      "contract-lifecycle-manager",
+      "emergency-management-plan"
+    ]
+  },
+  {
+    "family_id": 122,
+    "size": 3,
+    "mean_sim": 0.5239891409873962,
+    "min_sim": 0.43650251626968384,
+    "max_sim": 0.6632362604141235,
+    "tightness": "loose",
+    "rep_skills": [
+      "responding-to-security-incidents",
+      "data-loss-incident-response",
+      "resp-recon"
+    ]
+  },
+  {
+    "family_id": 123,
+    "size": 5,
+    "mean_sim": 0.5028445720672607,
+    "min_sim": 0.38925594091415405,
+    "max_sim": 0.6368569135665894,
+    "tightness": "loose",
+    "rep_skills": [
+      "fsiem-compliance",
+      "aws-compliance-checker",
+      "generating-compliance-reports"
+    ]
+  },
+  {
+    "family_id": 124,
+    "size": 4,
+    "mean_sim": 0.6233546137809753,
+    "min_sim": 0.5736035108566284,
+    "max_sim": 0.6839616298675537,
+    "tightness": "loose",
+    "rep_skills": [
+      "reference-indexer",
+      "B\u00edblia Livre \u2014 Cadeia de Pensamento",
+      "generar-paper"
+    ]
+  },
+  {
+    "family_id": 125,
+    "size": 4,
+    "mean_sim": 0.7728338837623596,
+    "min_sim": 0.7221335172653198,
+    "max_sim": 0.7990471720695496,
+    "tightness": "loose",
+    "rep_skills": [
+      "wiki-lint",
+      "wiki-lint",
+      "second-brain-lint"
+    ]
+  },
+  {
+    "family_id": 126,
+    "size": 9,
+    "mean_sim": 0.5076974630355835,
+    "min_sim": 0.31318384408950806,
+    "max_sim": 0.6704824566841125,
+    "tightness": "loose",
+    "rep_skills": [
+      "Swift Ecosystem",
+      "swift-development",
+      "swift-conventions"
+    ]
+  },
+  {
+    "family_id": 127,
+    "size": 3,
+    "mean_sim": 0.7861354351043701,
+    "min_sim": 0.6896661520004272,
+    "max_sim": 0.9731764197349548,
+    "tightness": "loose",
+    "rep_skills": [
+      "axiom-audit-testing",
+      "swift-testing-code-review",
+      "swift-testing-code-review"
+    ]
+  },
+  {
+    "family_id": 128,
+    "size": 6,
+    "mean_sim": 0.5332521796226501,
+    "min_sim": 0.39410823583602905,
+    "max_sim": 0.7187010049819946,
+    "tightness": "loose",
+    "rep_skills": [
+      "chatwoot",
+      "WebSocket",
+      "websocket-realtime"
+    ]
+  },
+  {
+    "family_id": 129,
+    "size": 6,
+    "mean_sim": 0.5547241568565369,
+    "min_sim": 0.37661415338516235,
+    "max_sim": 0.7503317594528198,
+    "tightness": "loose",
+    "rep_skills": [
+      "angular-di",
+      "cermont.frontend.angular",
+      "angular-migration"
+    ]
+  },
+  {
+    "family_id": 130,
+    "size": 3,
+    "mean_sim": 0.6633399724960327,
+    "min_sim": 0.6093600988388062,
+    "max_sim": 0.7278652787208557,
+    "tightness": "loose",
+    "rep_skills": [
+      "drizzle-orm",
+      "olore-drizzle-latest",
+      "drizzle"
+    ]
+  },
+  {
+    "family_id": 131,
+    "size": 4,
+    "mean_sim": 0.5496037602424622,
+    "min_sim": 0.3273311257362366,
+    "max_sim": 0.666629433631897,
+    "tightness": "loose",
+    "rep_skills": [
+      "django",
+      "django-security",
+      "architecting-django"
+    ]
+  },
+  {
+    "family_id": 132,
+    "size": 3,
+    "mean_sim": 0.6997833847999573,
+    "min_sim": 0.6598074436187744,
+    "max_sim": 0.7773523330688477,
+    "tightness": "loose",
+    "rep_skills": [
+      "gsd-sketch",
+      "gsd-sketch",
+      "gsd-sketch"
+    ]
+  },
+  {
+    "family_id": 133,
+    "size": 3,
+    "mean_sim": 0.5904820561408997,
+    "min_sim": 0.5216131806373596,
+    "max_sim": 0.6792929172515869,
+    "tightness": "loose",
+    "rep_skills": [
+      "retrospective-extractor",
+      "create-tasks",
+      "task-intelligence"
+    ]
+  },
+  {
+    "family_id": 134,
+    "size": 6,
+    "mean_sim": 0.5425149202346802,
+    "min_sim": 0.4261704087257385,
+    "max_sim": 0.6287723183631897,
+    "tightness": "loose",
+    "rep_skills": [
+      "code-review",
+      "php-pro",
+      "phpunit"
+    ]
+  },
+  {
+    "family_id": 135,
+    "size": 5,
+    "mean_sim": 0.5073080658912659,
+    "min_sim": 0.4052124619483948,
+    "max_sim": 0.6382237672805786,
+    "tightness": "loose",
+    "rep_skills": [
+      "deploy-knowledge-graph-rag",
+      "knowledge-graph-platform-integration",
+      "reflect:ingest"
+    ]
+  },
+  {
+    "family_id": 136,
+    "size": 4,
+    "mean_sim": 0.5400838255882263,
+    "min_sim": 0.32410019636154175,
+    "max_sim": 0.7907066941261292,
+    "tightness": "loose",
+    "rep_skills": [
+      "cmo-advisor",
+      "marketing-content-strategy",
+      "cmo-advisor"
+    ]
+  },
+  {
+    "family_id": 137,
+    "size": 4,
+    "mean_sim": 0.5839252471923828,
+    "min_sim": 0.26958104968070984,
+    "max_sim": 0.9934386610984802,
+    "tightness": "loose",
+    "rep_skills": [
+      "marketing-compliance",
+      "marketing-psychology",
+      "marketing-ideas"
+    ]
+  },
+  {
+    "family_id": 138,
+    "size": 5,
+    "mean_sim": 0.4617546498775482,
+    "min_sim": 0.2724843919277191,
+    "max_sim": 0.6607024073600769,
+    "tightness": "loose",
+    "rep_skills": [
+      "tauri-config-security",
+      "desktop-developer",
+      "testing-tauri-apps"
+    ]
+  },
+  {
+    "family_id": 139,
+    "size": 4,
+    "mean_sim": 0.7060906887054443,
+    "min_sim": 0.5796986818313599,
+    "max_sim": 0.9936240911483765,
+    "tightness": "loose",
+    "rep_skills": [
+      "memento-flashcards",
+      "spaced-repetition-teaching",
+      "memento-flashcards"
+    ]
+  },
+  {
+    "family_id": 140,
+    "size": 4,
+    "mean_sim": 0.6676579117774963,
+    "min_sim": 0.5868457555770874,
+    "max_sim": 0.9493240714073181,
+    "tightness": "loose",
+    "rep_skills": [
+      "articulate",
+      "i-clarify",
+      "clarify"
+    ]
+  },
+  {
+    "family_id": 141,
+    "size": 7,
+    "mean_sim": 0.5090956091880798,
+    "min_sim": 0.2157774567604065,
+    "max_sim": 0.927925705909729,
+    "tightness": "loose",
+    "rep_skills": [
+      "openai-knowledge",
+      "llama-cpp",
+      "llama-cpp"
+    ]
+  },
+  {
+    "family_id": 142,
+    "size": 3,
+    "mean_sim": 0.5890174508094788,
+    "min_sim": 0.551082968711853,
+    "max_sim": 0.6537455320358276,
+    "tightness": "loose",
+    "rep_skills": [
+      "auth0-quickstart",
+      "auth0-android",
+      "clerk-android"
+    ]
+  },
+  {
+    "family_id": 143,
+    "size": 7,
+    "mean_sim": 0.5182671546936035,
+    "min_sim": 0.3895997405052185,
+    "max_sim": 0.6981906294822693,
+    "tightness": "loose",
+    "rep_skills": [
+      "toolset",
+      "redis",
+      "unleash"
+    ]
+  },
+  {
+    "family_id": 144,
+    "size": 3,
+    "mean_sim": 0.8235422968864441,
+    "min_sim": 0.7353134155273438,
+    "max_sim": 1.0,
+    "tightness": "tight",
+    "rep_skills": [
+      "confluence-expert",
+      "confluence",
+      "confluence"
+    ]
+  },
+  {
+    "family_id": 145,
+    "size": 11,
+    "mean_sim": 0.4747861623764038,
+    "min_sim": 0.21422024071216583,
+    "max_sim": 0.8126888275146484,
+    "tightness": "loose",
+    "rep_skills": [
+      "u09333-mentoring-and-coaching-design-for-research-and-development-labs",
+      "u01482-constraint-compilation-for-healthcare-operations",
+      "u0577-observability-regression-sentinel"
+    ]
+  },
+  {
+    "family_id": 146,
+    "size": 5,
+    "mean_sim": 0.5811915397644043,
+    "min_sim": 0.36929360032081604,
+    "max_sim": 0.8841986656188965,
+    "tightness": "loose",
+    "rep_skills": [
+      "u06269-community-feedback-harvesting-for-sales-and-client-success",
+      "u09955-decision-journal-maintenance-for-accessibility-services",
+      "u06153-equity-impact-scoring-for-accessibility-services"
+    ]
+  },
+  {
+    "family_id": 147,
+    "size": 4,
+    "mean_sim": 0.467247873544693,
+    "min_sim": 0.31763845682144165,
+    "max_sim": 0.5808292031288147,
+    "tightness": "loose",
+    "rep_skills": [
+      "whatsapp-voice",
+      "openai-whisper",
+      "sherpa-onnx-tts"
+    ]
+  },
+  {
+    "family_id": 148,
+    "size": 3,
+    "mean_sim": 0.5585101246833801,
+    "min_sim": 0.5399577617645264,
+    "max_sim": 0.5835348963737488,
+    "tightness": "loose",
+    "rep_skills": [
+      "klingai-pricing-basics",
+      "kling-3-prompting",
+      "klingai-job-monitoring"
+    ]
+  },
+  {
+    "family_id": 149,
+    "size": 3,
+    "mean_sim": 0.5266838073730469,
+    "min_sim": 0.4301243722438812,
+    "max_sim": 0.6384077072143555,
+    "tightness": "loose",
+    "rep_skills": [
+      "clawhub-auto-publisher",
+      "clawpick",
+      "Open Claw Agent Skill: Claw & Order Court Interaction"
+    ]
+  },
+  {
+    "family_id": 150,
+    "size": 4,
+    "mean_sim": 0.5978827476501465,
+    "min_sim": 0.4702305197715759,
+    "max_sim": 0.7244821786880493,
+    "tightness": "loose",
+    "rep_skills": [
+      "nestjs-expert",
+      "backend-conventions",
+      "nestjs"
+    ]
+  },
+  {
+    "family_id": 151,
+    "size": 4,
+    "mean_sim": 0.7250683307647705,
+    "min_sim": 0.48000168800354004,
+    "max_sim": 0.9722571969032288,
+    "tightness": "loose",
+    "rep_skills": [
+      "develop-design-rationale",
+      "critique",
+      "critique"
+    ]
+  },
+  {
+    "family_id": 152,
+    "size": 3,
+    "mean_sim": 0.6453415155410767,
+    "min_sim": 0.6304466724395752,
+    "max_sim": 0.6541091799736023,
+    "tightness": "loose",
+    "rep_skills": [
+      "tsh-jira-task-formatting",
+      "add-story-to-epic",
+      "jira-epic"
+    ]
+  },
+  {
+    "family_id": 153,
+    "size": 3,
+    "mean_sim": 0.5436683297157288,
+    "min_sim": 0.4553656578063965,
+    "max_sim": 0.6864889860153198,
+    "tightness": "loose",
+    "rep_skills": [
+      "agentuity-cli-auth-login",
+      "cloud-auth",
+      "agentuity-cli-cloud-deploy"
+    ]
+  },
+  {
+    "family_id": 154,
+    "size": 3,
+    "mean_sim": 0.6297494769096375,
+    "min_sim": 0.48919451236724854,
+    "max_sim": 0.7893966436386108,
+    "tightness": "loose",
+    "rep_skills": [
+      "phoenix-craft",
+      "karpathy-guidelines",
+      "code-guardrails"
+    ]
+  },
+  {
+    "family_id": 155,
+    "size": 3,
+    "mean_sim": 0.6730336546897888,
+    "min_sim": 0.5122138857841492,
+    "max_sim": 0.9907786250114441,
+    "tightness": "loose",
+    "rep_skills": [
+      "Context Management Context Save",
+      "context-save",
+      "context-save"
+    ]
+  },
+  {
+    "family_id": 156,
+    "size": 5,
+    "mean_sim": 0.44655704498291016,
+    "min_sim": 0.3237934410572052,
+    "max_sim": 0.6211762428283691,
+    "tightness": "loose",
+    "rep_skills": [
+      "graphify",
+      "moai-tool-ast-grep",
+      "osgrep-semantic-search"
+    ]
+  },
+  {
+    "family_id": 157,
+    "size": 3,
+    "mean_sim": 0.5723432898521423,
+    "min_sim": 0.4834302067756653,
+    "max_sim": 0.6377460956573486,
+    "tightness": "loose",
+    "rep_skills": [
+      "ffmpeg-cut-concat",
+      "video-frames",
+      "Video Tools"
+    ]
+  },
+  {
+    "family_id": 158,
+    "size": 3,
+    "mean_sim": 0.4984264075756073,
+    "min_sim": 0.4849812388420105,
+    "max_sim": 0.5224599838256836,
+    "tightness": "loose",
+    "rep_skills": [
+      "gcp-secret-manager",
+      "gcs-security-assessment",
+      "internal-gcp-strategic"
+    ]
+  },
+  {
+    "family_id": 159,
+    "size": 3,
+    "mean_sim": 0.7067896723747253,
+    "min_sim": 0.686787486076355,
+    "max_sim": 0.7426514029502869,
+    "tightness": "loose",
+    "rep_skills": [
+      "obsidian-graph-traversal",
+      "awesome-search-kg-clusters",
+      "connect"
+    ]
+  },
+  {
+    "family_id": 160,
+    "size": 5,
+    "mean_sim": 0.43320006132125854,
+    "min_sim": 0.19955378770828247,
+    "max_sim": 0.7368764877319336,
+    "tightness": "loose",
+    "rep_skills": [
+      "springboot-security",
+      "dev-stack-java",
+      "springboot-patterns"
+    ]
+  },
+  {
+    "family_id": 161,
+    "size": 3,
+    "mean_sim": 0.7092447876930237,
+    "min_sim": 0.6893258094787598,
+    "max_sim": 0.7459456324577332,
+    "tightness": "loose",
+    "rep_skills": [
+      "Data Engineer",
+      "agent-data-engineer",
+      "data-engineer"
+    ]
+  },
+  {
+    "family_id": 162,
+    "size": 9,
+    "mean_sim": 0.5372002124786377,
+    "min_sim": 0.4134419858455658,
+    "max_sim": 0.7389091849327087,
+    "tightness": "loose",
+    "rep_skills": [
+      "processwire-multi-language",
+      "i18n-patterns",
+      "sfnext-i18n"
+    ]
+  },
+  {
+    "family_id": 163,
+    "size": 3,
+    "mean_sim": 0.6563090682029724,
+    "min_sim": 0.5079202055931091,
+    "max_sim": 0.914337158203125,
+    "tightness": "loose",
+    "rep_skills": [
+      "archon-clarify-prompts",
+      "speckit-clarify",
+      "speckit-clarify"
+    ]
+  },
+  {
+    "family_id": 164,
+    "size": 4,
+    "mean_sim": 0.6329428553581238,
+    "min_sim": 0.5350733995437622,
+    "max_sim": 0.688772439956665,
+    "tightness": "loose",
+    "rep_skills": [
+      "brand-asset-management",
+      "agency-brand-guardian",
+      "elite-brand-design"
+    ]
+  },
+  {
+    "family_id": 165,
+    "size": 4,
+    "mean_sim": 0.8388185501098633,
+    "min_sim": 0.8010903596878052,
+    "max_sim": 0.8601503372192383,
+    "tightness": "tight",
+    "rep_skills": [
+      "skill-0100",
+      "skill-0044",
+      "skill-0192"
+    ]
+  },
+  {
+    "family_id": 166,
+    "size": 7,
+    "mean_sim": 0.5835485458374023,
+    "min_sim": 0.4343213140964508,
+    "max_sim": 0.7713534235954285,
+    "tightness": "loose",
+    "rep_skills": [
+      "vue-expert",
+      "vueuse-functions",
+      "vue3"
+    ]
+  },
+  {
+    "family_id": 167,
+    "size": 13,
+    "mean_sim": 0.5569849014282227,
+    "min_sim": 0.2291642725467682,
+    "max_sim": 0.9755541086196899,
+    "tightness": "loose",
+    "rep_skills": [
+      "youtube-tools",
+      "summarize",
+      "summarize"
+    ]
+  },
+  {
+    "family_id": 168,
+    "size": 5,
+    "mean_sim": 0.606774628162384,
+    "min_sim": 0.3674386739730835,
+    "max_sim": 0.9108163118362427,
+    "tightness": "loose",
+    "rep_skills": [
+      "copy-editing",
+      "copywriting",
+      "copywriting"
+    ]
+  },
+  {
+    "family_id": 169,
+    "size": 15,
+    "mean_sim": 0.6543187499046326,
+    "min_sim": 0.37060269713401794,
+    "max_sim": 0.9767243266105652,
+    "tightness": "loose",
+    "rep_skills": [
+      "human-tone",
+      "no-slop",
+      "humanizer"
+    ]
+  },
+  {
+    "family_id": 170,
+    "size": 5,
+    "mean_sim": 0.5142526626586914,
+    "min_sim": 0.3960968255996704,
+    "max_sim": 0.698087751865387,
+    "tightness": "loose",
+    "rep_skills": [
+      "google-calendar-tool",
+      "temporal-cortex",
+      "adhoc_gcal"
+    ]
+  },
+  {
+    "family_id": 171,
+    "size": 5,
+    "mean_sim": 0.4645264148712158,
+    "min_sim": 0.36005696654319763,
+    "max_sim": 0.6044193506240845,
+    "tightness": "loose",
+    "rep_skills": [
+      "ndf-product-discovery-runner",
+      "value-realization",
+      "pm"
+    ]
+  },
+  {
+    "family_id": 172,
+    "size": 3,
+    "mean_sim": 0.7374674677848816,
+    "min_sim": 0.628734827041626,
+    "max_sim": 0.938064455986023,
+    "tightness": "loose",
+    "rep_skills": [
+      "motion-design-coder",
+      "hyperframes",
+      "hyperframes"
+    ]
+  },
+  {
+    "family_id": 173,
+    "size": 3,
+    "mean_sim": 0.5584730505943298,
+    "min_sim": 0.5469577312469482,
+    "max_sim": 0.5762516260147095,
+    "tightness": "loose",
+    "rep_skills": [
+      "ralph",
+      "ralph-loop",
+      "ralph-router"
+    ]
+  },
+  {
+    "family_id": 174,
+    "size": 3,
+    "mean_sim": 0.8446025252342224,
+    "min_sim": 0.7654593586921692,
+    "max_sim": 0.9708884358406067,
+    "tightness": "tight",
+    "rep_skills": [
+      "plan",
+      "plan",
+      "plan"
+    ]
+  },
+  {
+    "family_id": 175,
+    "size": 6,
+    "mean_sim": 0.5590921640396118,
+    "min_sim": 0.4054580330848694,
+    "max_sim": 0.7486146092414856,
+    "tightness": "loose",
+    "rep_skills": [
+      "manim",
+      "animejs-animation",
+      "web-animation-design"
+    ]
+  },
+  {
+    "family_id": 176,
+    "size": 3,
+    "mean_sim": 0.7278342247009277,
+    "min_sim": 0.5936933159828186,
+    "max_sim": 0.9474754333496094,
+    "tightness": "loose",
+    "rep_skills": [
+      "database-optimizer",
+      "sql-pro",
+      "database-optimizer"
+    ]
+  },
+  {
+    "family_id": 177,
+    "size": 5,
+    "mean_sim": 0.567298412322998,
+    "min_sim": 0.3496437072753906,
+    "max_sim": 0.7927476167678833,
+    "tightness": "loose",
+    "rep_skills": [
+      "design",
+      "svelte-testing",
+      "svelte-builder"
+    ]
+  },
+  {
+    "family_id": 178,
+    "size": 3,
+    "mean_sim": 0.4465305805206299,
+    "min_sim": 0.37713804841041565,
+    "max_sim": 0.49613773822784424,
+    "tightness": "loose",
+    "rep_skills": [
+      "sprint-status",
+      "status-report",
+      "aac-sprint-status"
+    ]
+  },
+  {
+    "family_id": 179,
+    "size": 3,
+    "mean_sim": 0.6151798963546753,
+    "min_sim": 0.5601005554199219,
+    "max_sim": 0.710760235786438,
+    "tightness": "loose",
+    "rep_skills": [
+      "meta-ads-analyser",
+      "competitor-ad-teardown",
+      "ads competitor"
+    ]
+  },
+  {
+    "family_id": 180,
+    "size": 14,
+    "mean_sim": 0.6905357241630554,
+    "min_sim": 0.5231513381004333,
+    "max_sim": 0.866213858127594,
+    "tightness": "loose",
+    "rep_skills": [
+      "mermaid",
+      "markdown-mermaid-writing",
+      "a-comm-diagram"
+    ]
+  },
+  {
+    "family_id": 181,
+    "size": 4,
+    "mean_sim": 0.5763738751411438,
+    "min_sim": 0.4795013964176178,
+    "max_sim": 0.6439388990402222,
+    "tightness": "loose",
+    "rep_skills": [
+      "diagram-maker",
+      "SakKing-architecture-diagram",
+      "html-visualization"
+    ]
+  },
+  {
+    "family_id": 182,
+    "size": 4,
+    "mean_sim": 0.5940771698951721,
+    "min_sim": 0.4962759017944336,
+    "max_sim": 0.6555939316749573,
+    "tightness": "loose",
+    "rep_skills": [
+      "ls-react-email",
+      "react-email",
+      "resend-cli"
+    ]
+  },
+  {
+    "family_id": 183,
+    "size": 4,
+    "mean_sim": 0.6603228449821472,
+    "min_sim": 0.5873545408248901,
+    "max_sim": 0.7448019981384277,
+    "tightness": "loose",
+    "rep_skills": [
+      "Shopify Apps",
+      "shopify",
+      "shopify-development"
+    ]
+  },
+  {
+    "family_id": 184,
+    "size": 3,
+    "mean_sim": 0.6075975298881531,
+    "min_sim": 0.5498631000518799,
+    "max_sim": 0.6791313290596008,
+    "tightness": "loose",
+    "rep_skills": [
+      "learn-anything-topic",
+      "oracle-path",
+      "learn-guidance"
+    ]
+  },
+  {
+    "family_id": 185,
+    "size": 3,
+    "mean_sim": 0.581216037273407,
+    "min_sim": 0.5317102670669556,
+    "max_sim": 0.6398967504501343,
+    "tightness": "loose",
+    "rep_skills": [
+      "prototype-flow",
+      "design-system",
+      "wireframe"
+    ]
+  },
+  {
+    "family_id": 186,
+    "size": 4,
+    "mean_sim": 0.606211245059967,
+    "min_sim": 0.48076146841049194,
+    "max_sim": 0.8681045770645142,
+    "tightness": "loose",
+    "rep_skills": [
+      "oneshot-fix",
+      "refactor",
+      "minimalist-surgical-development"
+    ]
+  },
+  {
+    "family_id": 187,
+    "size": 5,
+    "mean_sim": 0.5620297789573669,
+    "min_sim": 0.3490235209465027,
+    "max_sim": 0.7470735311508179,
+    "tightness": "loose",
+    "rep_skills": [
+      "input-validation-checker",
+      "bearer-token-validator",
+      "rest-endpoint-designer"
+    ]
+  },
+  {
+    "family_id": 188,
+    "size": 9,
+    "mean_sim": 0.5401104688644409,
+    "min_sim": 0.37777358293533325,
+    "max_sim": 0.6970530152320862,
+    "tightness": "loose",
+    "rep_skills": [
+      "meta-prompt",
+      "pokemon-ontology-builder",
+      "fireauto-harness-guide"
+    ]
+  },
+  {
+    "family_id": 189,
+    "size": 15,
+    "mean_sim": 0.46076637506484985,
+    "min_sim": 0.2055896371603012,
+    "max_sim": 0.671195387840271,
+    "tightness": "loose",
+    "rep_skills": [
+      "spec-tasks",
+      "architecture-guide",
+      "task"
+    ]
+  },
+  {
+    "family_id": 190,
+    "size": 3,
+    "mean_sim": 0.8097662925720215,
+    "min_sim": 0.7299319505691528,
+    "max_sim": 0.96644127368927,
+    "tightness": "tight",
+    "rep_skills": [
+      "remote-sensing-nature-reviewer",
+      "nature-response",
+      "nature-reviewer"
+    ]
+  },
+  {
+    "family_id": 191,
+    "size": 18,
+    "mean_sim": 0.724696934223175,
+    "min_sim": 0.47870948910713196,
+    "max_sim": 0.9868195652961731,
+    "tightness": "loose",
+    "rep_skills": [
+      "grill-me",
+      "grill-me",
+      "fidex-grilling"
+    ]
+  },
+  {
+    "family_id": 192,
+    "size": 4,
+    "mean_sim": 0.5766470432281494,
+    "min_sim": 0.45642369985580444,
+    "max_sim": 0.6944493055343628,
+    "tightness": "loose",
+    "rep_skills": [
+      "planning",
+      "g-skl-tasks",
+      "planning-with-files"
+    ]
+  },
+  {
+    "family_id": 193,
+    "size": 3,
+    "mean_sim": 0.6950591206550598,
+    "min_sim": 0.6176599264144897,
+    "max_sim": 0.832576334476471,
+    "tightness": "loose",
+    "rep_skills": [
+      "voice-dna-creator",
+      "voice-dna-creator",
+      "voice-editor"
+    ]
+  },
+  {
+    "family_id": 194,
+    "size": 5,
+    "mean_sim": 0.45469069480895996,
+    "min_sim": 0.2804098427295685,
+    "max_sim": 0.6540235280990601,
+    "tightness": "loose",
+    "rep_skills": [
+      "ck:project-management",
+      "epic-management",
+      "plan-task"
+    ]
+  },
+  {
+    "family_id": 195,
+    "size": 3,
+    "mean_sim": 0.44775712490081787,
+    "min_sim": 0.4179185926914215,
+    "max_sim": 0.49667367339134216,
+    "tightness": "loose",
+    "rep_skills": [
+      "trello-automation",
+      "trello",
+      "trello"
+    ]
+  },
+  {
+    "family_id": 196,
+    "size": 6,
+    "mean_sim": 0.5919044017791748,
+    "min_sim": 0.43025583028793335,
+    "max_sim": 0.7064558267593384,
+    "tightness": "loose",
+    "rep_skills": [
+      "slack-search",
+      "slack-message",
+      "slack-personal"
+    ]
+  },
+  {
+    "family_id": 197,
+    "size": 3,
+    "mean_sim": 0.6197535395622253,
+    "min_sim": 0.4568079710006714,
+    "max_sim": 0.7115820646286011,
+    "tightness": "loose",
+    "rep_skills": [
+      "telegram-bot",
+      "telegram-keyboard-design",
+      "telegram-bot"
+    ]
+  },
+  {
+    "family_id": 198,
+    "size": 4,
+    "mean_sim": 0.6581752300262451,
+    "min_sim": 0.5633766651153564,
+    "max_sim": 0.7226553559303284,
+    "tightness": "loose",
+    "rep_skills": [
+      "telegram-dispatch",
+      "telegram-reporter",
+      "telegram-documentation-style"
+    ]
+  },
+  {
+    "family_id": 199,
+    "size": 10,
+    "mean_sim": 0.716971755027771,
+    "min_sim": 0.5208598375320435,
+    "max_sim": 0.8993661403656006,
+    "tightness": "loose",
+    "rep_skills": [
+      "apilio-automation",
+      "agenty-automation",
+      "cats-automation"
+    ]
+  },
+  {
+    "family_id": 200,
+    "size": 11,
+    "mean_sim": 0.6405706405639648,
+    "min_sim": 0.41717836260795593,
+    "max_sim": 0.9034136533737183,
+    "tightness": "loose",
+    "rep_skills": [
+      "outlook-calendar-automation",
+      "slack-automation",
+      "openakita/skills@gmail-automation"
+    ]
+  },
+  {
+    "family_id": 201,
+    "size": 3,
+    "mean_sim": 0.6584310531616211,
+    "min_sim": 0.48937851190567017,
+    "max_sim": 0.9803434610366821,
+    "tightness": "loose",
+    "rep_skills": [
+      "skill-gen-397",
+      "skill-gen-877",
+      "ai-elements"
+    ]
+  },
+  {
+    "family_id": 202,
+    "size": 7,
+    "mean_sim": 0.49203258752822876,
+    "min_sim": 0.3302203416824341,
+    "max_sim": 0.6630181670188904,
+    "tightness": "loose",
+    "rep_skills": [
+      "voice-agents",
+      "eachlabs-voice-audio",
+      "ai-podcast-creation"
+    ]
+  },
+  {
+    "family_id": 203,
+    "size": 4,
+    "mean_sim": 0.43623122572898865,
+    "min_sim": 0.30397963523864746,
+    "max_sim": 0.7196718454360962,
+    "tightness": "loose",
+    "rep_skills": [
+      "build-and-test",
+      "vitest-testing",
+      "api-testing"
+    ]
+  },
+  {
+    "family_id": 204,
+    "size": 4,
+    "mean_sim": 0.6337739825248718,
+    "min_sim": 0.574042558670044,
+    "max_sim": 0.6618288159370422,
+    "tightness": "loose",
+    "rep_skills": [
+      "tracecc",
+      "session-search",
+      "search"
+    ]
+  },
+  {
+    "family_id": 205,
+    "size": 4,
+    "mean_sim": 0.5730157494544983,
+    "min_sim": 0.4652102291584015,
+    "max_sim": 0.6538708209991455,
+    "tightness": "loose",
+    "rep_skills": [
+      "Secret Detection & Prevention",
+      "secrets-management",
+      "implementing-secrets-scanning-in-ci-cd"
+    ]
+  },
+  {
+    "family_id": 206,
+    "size": 3,
+    "mean_sim": 0.7028563618659973,
+    "min_sim": 0.6953730583190918,
+    "max_sim": 0.7097781896591187,
+    "tightness": "loose",
+    "rep_skills": [
+      "creating-webhook-handlers",
+      "bamboohr-webhooks-events",
+      "klaviyo-webhooks-events"
+    ]
+  },
+  {
+    "family_id": 207,
+    "size": 4,
+    "mean_sim": 0.5432753562927246,
+    "min_sim": 0.4366893470287323,
+    "max_sim": 0.6299819946289062,
+    "tightness": "loose",
+    "rep_skills": [
+      "architecture-overview",
+      "architecture-extract",
+      "explore-architecture"
+    ]
+  },
+  {
+    "family_id": 208,
+    "size": 3,
+    "mean_sim": 0.734586775302887,
+    "min_sim": 0.6729077696800232,
+    "max_sim": 0.8070281744003296,
+    "tightness": "loose",
+    "rep_skills": [
+      "gemini-api",
+      "gemini-api-integration",
+      "gemini-llm"
+    ]
+  },
+  {
+    "family_id": 209,
+    "size": 5,
+    "mean_sim": 0.6737804412841797,
+    "min_sim": 0.5786401629447937,
+    "max_sim": 0.7672559022903442,
+    "tightness": "loose",
+    "rep_skills": [
+      "find-docs",
+      "find-docs",
+      "find-docs"
+    ]
+  },
+  {
+    "family_id": 210,
+    "size": 7,
+    "mean_sim": 0.6023849844932556,
+    "min_sim": 0.49250108003616333,
+    "max_sim": 0.9378753900527954,
+    "tightness": "loose",
+    "rep_skills": [
+      "schema-markup",
+      "schema-markup",
+      "seo"
+    ]
+  },
+  {
+    "family_id": 211,
+    "size": 7,
+    "mean_sim": 0.5936935544013977,
+    "min_sim": 0.4268949627876282,
+    "max_sim": 0.7583826780319214,
+    "tightness": "loose",
+    "rep_skills": [
+      "semantic-scholar",
+      "aetherbrowser-arxiv-nav",
+      "paper-read"
+    ]
+  },
+  {
+    "family_id": 212,
+    "size": 3,
+    "mean_sim": 0.5089142918586731,
+    "min_sim": 0.4221344292163849,
+    "max_sim": 0.5674943923950195,
+    "tightness": "loose",
+    "rep_skills": [
+      "statedd-protocol",
+      "task-workflow-router",
+      "process-analysis-retrospective"
+    ]
+  },
+  {
+    "family_id": 213,
+    "size": 15,
+    "mean_sim": 0.5951376557350159,
+    "min_sim": 0.42352691292762756,
+    "max_sim": 0.8235823512077332,
+    "tightness": "loose",
+    "rep_skills": [
+      "database-skill",
+      "database-migration",
+      "db"
+    ]
+  },
+  {
+    "family_id": 214,
+    "size": 5,
+    "mean_sim": 0.5443000197410583,
+    "min_sim": 0.40512415766716003,
+    "max_sim": 0.6466413140296936,
+    "tightness": "loose",
+    "rep_skills": [
+      "postgresql",
+      "postgresql-table-design",
+      "databases"
+    ]
+  },
+  {
+    "family_id": 215,
+    "size": 8,
+    "mean_sim": 0.5769316554069519,
+    "min_sim": 0.3681252598762512,
+    "max_sim": 0.694645881652832,
+    "tightness": "loose",
+    "rep_skills": [
+      "seo",
+      "seo-content-writer",
+      "seo-plan"
+    ]
+  },
+  {
+    "family_id": 216,
+    "size": 4,
+    "mean_sim": 0.7743753790855408,
+    "min_sim": 0.5855681896209717,
+    "max_sim": 0.8973035216331482,
+    "tightness": "loose",
+    "rep_skills": [
+      "programmatic-seo",
+      "programmatic-seo",
+      "seo-audit"
+    ]
+  },
+  {
+    "family_id": 217,
+    "size": 3,
+    "mean_sim": 0.8019523620605469,
+    "min_sim": 0.7029285430908203,
+    "max_sim": 1.0,
+    "tightness": "tight",
+    "rep_skills": [
+      "site-architecture",
+      "site-architecture",
+      "site-architecture"
+    ]
+  },
+  {
+    "family_id": 218,
+    "size": 6,
+    "mean_sim": 0.5179489254951477,
+    "min_sim": 0.3448575735092163,
+    "max_sim": 0.6469294428825378,
+    "tightness": "loose",
+    "rep_skills": [
+      "performance-optimizer",
+      "performance-review",
+      "performance-optimization"
+    ]
+  },
+  {
+    "family_id": 219,
+    "size": 4,
+    "mean_sim": 0.7051823139190674,
+    "min_sim": 0.6299189329147339,
+    "max_sim": 0.8228285312652588,
+    "tightness": "loose",
+    "rep_skills": [
+      "performance-tuning",
+      "web-performance",
+      "csp-frontend-performance"
+    ]
+  },
+  {
+    "family_id": 220,
+    "size": 3,
+    "mean_sim": 0.634308397769928,
+    "min_sim": 0.5579260587692261,
+    "max_sim": 0.7006121277809143,
+    "tightness": "loose",
+    "rep_skills": [
+      "prd-to-plan",
+      "to-issues",
+      "to-issues"
+    ]
+  },
+  {
+    "family_id": 221,
+    "size": 4,
+    "mean_sim": 0.6917412281036377,
+    "min_sim": 0.6225310564041138,
+    "max_sim": 0.7916982173919678,
+    "tightness": "loose",
+    "rep_skills": [
+      "session-handoff",
+      "handoff",
+      "handoff"
+    ]
+  },
+  {
+    "family_id": 222,
+    "size": 5,
+    "mean_sim": 0.6427220106124878,
+    "min_sim": 0.5026569962501526,
+    "max_sim": 0.7665010690689087,
+    "tightness": "loose",
+    "rep_skills": [
+      "session-handoff",
+      "handoff",
+      "handoff"
+    ]
+  },
+  {
+    "family_id": 223,
+    "size": 7,
+    "mean_sim": 0.5525133013725281,
+    "min_sim": 0.38501477241516113,
+    "max_sim": 0.7519505023956299,
+    "tightness": "loose",
+    "rep_skills": [
+      "autocli",
+      "x",
+      "bird"
+    ]
+  },
+  {
+    "family_id": 224,
+    "size": 10,
+    "mean_sim": 0.5816349387168884,
+    "min_sim": 0.33108848333358765,
+    "max_sim": 0.9295369982719421,
+    "tightness": "loose",
+    "rep_skills": [
+      "k8s-hpa-cost-tuning",
+      "Helm Chart Manager",
+      "k8s-security-policies"
+    ]
+  },
+  {
+    "family_id": 225,
+    "size": 4,
+    "mean_sim": 0.7209613919258118,
+    "min_sim": 0.5699560046195984,
+    "max_sim": 0.9901337623596191,
+    "tightness": "loose",
+    "rep_skills": [
+      "kubectl",
+      "kubernetes-operator",
+      "kubernetes-operator"
+    ]
+  },
+  {
+    "family_id": 226,
+    "size": 5,
+    "mean_sim": 0.664334774017334,
+    "min_sim": 0.545632004737854,
+    "max_sim": 0.9471963047981262,
+    "tightness": "loose",
+    "rep_skills": [
+      "request-refactor-plan",
+      "implementation-planning",
+      "implementation-discovery"
+    ]
+  },
+  {
+    "family_id": 227,
+    "size": 3,
+    "mean_sim": 0.6057751774787903,
+    "min_sim": 0.4863925576210022,
+    "max_sim": 0.8232009410858154,
+    "tightness": "loose",
+    "rep_skills": [
+      "using-superpowers",
+      "learner",
+      "learner"
+    ]
+  },
+  {
+    "family_id": 228,
+    "size": 413,
+    "mean_sim": 0.42127352952957153,
+    "min_sim": -0.05233866348862648,
+    "max_sim": 0.8582723736763,
+    "tightness": "loose",
+    "rep_skills": [
+      "update-codemaps",
+      "yijing-divination",
+      "astrbot-plugin-dev"
+    ]
+  },
+  {
+    "family_id": 229,
+    "size": 4,
+    "mean_sim": 0.6317723393440247,
+    "min_sim": 0.5754919648170471,
+    "max_sim": 0.7464806437492371,
+    "tightness": "loose",
+    "rep_skills": [
+      "issue-standard",
+      "create-issue",
+      "open-source-contribution"
+    ]
+  },
+  {
+    "family_id": 230,
+    "size": 3,
+    "mean_sim": 0.6388552784919739,
+    "min_sim": 0.5714985728263855,
+    "max_sim": 0.7555012702941895,
+    "tightness": "loose",
+    "rep_skills": [
+      "autonomous-loop",
+      "auto-research",
+      "autoresearch"
+    ]
+  },
+  {
+    "family_id": 231,
+    "size": 6,
+    "mean_sim": 0.5342950224876404,
+    "min_sim": 0.4186878204345703,
+    "max_sim": 0.6363332867622375,
+    "tightness": "loose",
+    "rep_skills": [
+      "frontend-monorepo-init",
+      "coding-standards",
+      "vue3-vue-file-template"
+    ]
+  },
+  {
+    "family_id": 232,
+    "size": 10,
+    "mean_sim": 0.47423505783081055,
+    "min_sim": 0.16113734245300293,
+    "max_sim": 0.7410439848899841,
+    "tightness": "loose",
+    "rep_skills": [
+      "nano-pdf",
+      "pdf",
+      "utils:pdf"
+    ]
+  },
+  {
+    "family_id": 233,
+    "size": 12,
+    "mean_sim": 0.5877643823623657,
+    "min_sim": 0.3766132891178131,
+    "max_sim": 0.7731916904449463,
+    "tightness": "loose",
+    "rep_skills": [
+      "go",
+      "go",
+      "go"
+    ]
+  },
+  {
+    "family_id": 234,
+    "size": 11,
+    "mean_sim": 0.5957428812980652,
+    "min_sim": 0.425633043050766,
+    "max_sim": 0.8278577923774719,
+    "tightness": "loose",
+    "rep_skills": [
+      "xlsx",
+      "xlsx",
+      "convert-excel-to-md"
+    ]
+  },
+  {
+    "family_id": 235,
+    "size": 7,
+    "mean_sim": 0.5882750749588013,
+    "min_sim": 0.42536306381225586,
+    "max_sim": 0.7510766983032227,
+    "tightness": "loose",
+    "rep_skills": [
+      "awesome-html",
+      "artifact-designer",
+      "create-doc"
+    ]
+  },
+  {
+    "family_id": 236,
+    "size": 15,
+    "mean_sim": 0.579896092414856,
+    "min_sim": 0.3591119945049286,
+    "max_sim": 1.000000238418579,
+    "tightness": "loose",
+    "rep_skills": [
+      "combinate-presentation",
+      "gtm-create-html-slides",
+      "pptx"
+    ]
+  },
+  {
+    "family_id": 237,
+    "size": 3,
+    "mean_sim": 0.6989474296569824,
+    "min_sim": 0.6344698667526245,
+    "max_sim": 0.8050816059112549,
+    "tightness": "loose",
+    "rep_skills": [
+      "cybrscrape-official",
+      "scrapling",
+      "scrapling"
+    ]
+  },
+  {
+    "family_id": 238,
+    "size": 4,
+    "mean_sim": 0.5142970681190491,
+    "min_sim": 0.3667250871658325,
+    "max_sim": 0.7923873662948608,
+    "tightness": "loose",
+    "rep_skills": [
+      "brave-search",
+      "open-web-unlocker",
+      "web-scraper-as-a-service"
+    ]
+  },
+  {
+    "family_id": 239,
+    "size": 5,
+    "mean_sim": 0.8920348286628723,
+    "min_sim": 0.8180004358291626,
+    "max_sim": 0.9906812906265259,
+    "tightness": "tight",
+    "rep_skills": [
+      "blockchain-expert-78",
+      "blockchain-specialized-skill-202",
+      "blockchain-expert-23"
+    ]
+  },
+  {
+    "family_id": 240,
+    "size": 3,
+    "mean_sim": 0.6727215647697449,
+    "min_sim": 0.5240284204483032,
+    "max_sim": 0.9130042791366577,
+    "tightness": "loose",
+    "rep_skills": [
+      "fastapi-templates",
+      "fastapi-templates",
+      "api-scaffolding"
+    ]
+  },
+  {
+    "family_id": 241,
+    "size": 14,
+    "mean_sim": 0.48543092608451843,
+    "min_sim": 0.1822616159915924,
+    "max_sim": 0.8834354877471924,
+    "tightness": "loose",
+    "rep_skills": [
+      "obsidian",
+      "obsidian",
+      "writing-note"
+    ]
+  },
+  {
+    "family_id": 242,
+    "size": 4,
+    "mean_sim": 0.541809618473053,
+    "min_sim": 0.4540858864784241,
+    "max_sim": 0.6634283065795898,
+    "tightness": "loose",
+    "rep_skills": [
+      "Remember",
+      "claude-reflect",
+      "memory-workflow"
+    ]
+  },
+  {
+    "family_id": 243,
+    "size": 4,
+    "mean_sim": 0.7279381155967712,
+    "min_sim": 0.6800718903541565,
+    "max_sim": 0.8029297590255737,
+    "tightness": "loose",
+    "rep_skills": [
+      "DALL-E Batch Image Generator",
+      "openai-image-gen",
+      "openai-image-gen"
+    ]
+  },
+  {
+    "family_id": 244,
+    "size": 13,
+    "mean_sim": 0.5334419012069702,
+    "min_sim": 0.27759629487991333,
+    "max_sim": 0.8318884372711182,
+    "tightness": "loose",
+    "rep_skills": [
+      "nanobanana",
+      "nano-banana",
+      "image-generation"
+    ]
+  },
+  {
+    "family_id": 245,
+    "size": 8,
+    "mean_sim": 0.49109604954719543,
+    "min_sim": 0.30323249101638794,
+    "max_sim": 0.7044657468795776,
+    "tightness": "loose",
+    "rep_skills": [
+      "social-media",
+      "social-media-api-integration",
+      "typefully"
+    ]
+  },
+  {
+    "family_id": 246,
+    "size": 3,
+    "mean_sim": 0.5921763181686401,
+    "min_sim": 0.5458395481109619,
+    "max_sim": 0.6695933938026428,
+    "tightness": "loose",
+    "rep_skills": [
+      "fix-markdown",
+      "markdown-linter"
+    ]
+  },
+  {
+    "family_id": 247,
+    "size": 9,
+    "mean_sim": 0.5946155786514282,
+    "min_sim": 0.41689333319664,
+    "max_sim": 0.8073965907096863,
+    "tightness": "loose",
+    "rep_skills": [
+      "aws-solution-architect",
+      "tsh-designing-multi-cloud-architecture",
+      "system-architect"
+    ]
+  },
+  {
+    "family_id": 248,
+    "size": 11,
+    "mean_sim": 0.5052875280380249,
+    "min_sim": 0.287047415971756,
+    "max_sim": 0.9981739521026611,
+    "tightness": "loose",
+    "rep_skills": [
+      "python-quality-testing",
+      "code-quality",
+      "uv-package-manager"
+    ]
+  },
+  {
+    "family_id": 249,
+    "size": 3,
+    "mean_sim": 0.9516641497612,
+    "min_sim": 0.940923810005188,
+    "max_sim": 0.972719669342041,
+    "tightness": "tight",
+    "rep_skills": [
+      "scikit-learn",
+      "scikit-learn",
+      "scikit-learn"
+    ]
+  },
+  {
+    "family_id": 250,
+    "size": 4,
+    "mean_sim": 0.6923232078552246,
+    "min_sim": 0.6269635558128357,
+    "max_sim": 0.7590125799179077,
+    "tightness": "loose",
+    "rep_skills": [
+      "pm-brainstorm",
+      "ce-brainstorm",
+      "brainstorming-design-docs"
+    ]
+  },
+  {
+    "family_id": 251,
+    "size": 7,
+    "mean_sim": 0.5889675617218018,
+    "min_sim": 0.3927353620529175,
+    "max_sim": 0.7498091459274292,
+    "tightness": "loose",
+    "rep_skills": [
+      "kedhar-nextjs-vercel-app",
+      "vercel-upgrade-migration",
+      "vercel-common-errors"
+    ]
+  },
+  {
+    "family_id": 252,
+    "size": 3,
+    "mean_sim": 0.8827600479125977,
+    "min_sim": 0.8358694911003113,
+    "max_sim": 0.9642988443374634,
+    "tightness": "tight",
+    "rep_skills": [
+      "using-neon",
+      "neon",
+      "neon"
+    ]
+  },
+  {
+    "family_id": 253,
+    "size": 3,
+    "mean_sim": 0.6853958964347839,
+    "min_sim": 0.6118791699409485,
+    "max_sim": 0.8020914793014526,
+    "tightness": "loose",
+    "rep_skills": [
+      "feature-engineering-helper",
+      "feature-importance-analyzer",
+      "optuna-study-creator"
+    ]
+  },
+  {
+    "family_id": 254,
+    "size": 18,
+    "mean_sim": 0.44786930084228516,
+    "min_sim": 0.05719835311174393,
+    "max_sim": 0.8471164703369141,
+    "tightness": "loose",
+    "rep_skills": [
+      "api-design",
+      "api design",
+      "api-design"
+    ]
+  },
+  {
+    "family_id": 255,
+    "size": 3,
+    "mean_sim": 0.6821849942207336,
+    "min_sim": 0.6574505567550659,
+    "max_sim": 0.7191699743270874,
+    "tightness": "loose",
+    "rep_skills": [
+      "investigate-ci",
+      "ci-failure",
+      "github-actions-troubleshooting"
+    ]
+  },
+  {
+    "family_id": 256,
+    "size": 3,
+    "mean_sim": 0.4932640492916107,
+    "min_sim": 0.35643380880355835,
+    "max_sim": 0.6669304370880127,
+    "tightness": "loose",
+    "rep_skills": [
+      "security-audit",
+      "run2_trivy-offline",
+      "Trivy Vulnerability Scanner"
+    ]
+  },
+  {
+    "family_id": 257,
+    "size": 12,
+    "mean_sim": 0.6094322800636292,
+    "min_sim": 0.39213043451309204,
+    "max_sim": 0.832399845123291,
+    "tightness": "loose",
+    "rep_skills": [
+      "technical-spec-design",
+      "prd-taskmaster",
+      "spec-translator-design"
+    ]
+  },
+  {
+    "family_id": 258,
+    "size": 10,
+    "mean_sim": 0.6523646712303162,
+    "min_sim": 0.30382829904556274,
+    "max_sim": 0.9306451082229614,
+    "tightness": "loose",
+    "rep_skills": [
+      "mcp-server-authoring",
+      "mcp-builder",
+      "mcp-builder"
+    ]
+  },
+  {
+    "family_id": 259,
+    "size": 4,
+    "mean_sim": 0.9118639826774597,
+    "min_sim": 0.8225010633468628,
+    "max_sim": 0.994471549987793,
+    "tightness": "tight",
+    "rep_skills": [
+      "harness:finishing-a-development-branch",
+      "finishing-a-development-branch",
+      "finishing-a-development-branch"
+    ]
+  },
+  {
+    "family_id": 260,
+    "size": 3,
+    "mean_sim": 0.607351541519165,
+    "min_sim": 0.45264655351638794,
+    "max_sim": 0.8860567808151245,
+    "tightness": "loose",
+    "rep_skills": [
+      "requesting-code-review",
+      "obra-requesting-code-review",
+      "requesting-code-review"
+    ]
+  },
+  {
+    "family_id": 261,
+    "size": 6,
+    "mean_sim": 0.7164121866226196,
+    "min_sim": 0.5955538749694824,
+    "max_sim": 0.9615969657897949,
+    "tightness": "loose",
+    "rep_skills": [
+      "verification-before-completion",
+      "uv-verification-before-completion",
+      "quality-gate"
+    ]
+  },
+  {
+    "family_id": 262,
+    "size": 7,
+    "mean_sim": 0.612053394317627,
+    "min_sim": 0.3445078730583191,
+    "max_sim": 0.7547422647476196,
+    "tightness": "loose",
+    "rep_skills": [
+      "playwright-mcp-guide",
+      "e2e-playwright-runbook",
+      "playwright-generate-test"
+    ]
+  },
+  {
+    "family_id": 263,
+    "size": 6,
+    "mean_sim": 0.735685408115387,
+    "min_sim": 0.6018140316009521,
+    "max_sim": 0.9496194124221802,
+    "tightness": "loose",
+    "rep_skills": [
+      "web-debug",
+      "webapp-testing",
+      "webapp-testing"
+    ]
+  },
+  {
+    "family_id": 264,
+    "size": 6,
+    "mean_sim": 0.5133068561553955,
+    "min_sim": 0.4290477931499481,
+    "max_sim": 0.6846732497215271,
+    "tightness": "loose",
+    "rep_skills": [
+      "researching-options",
+      "vnv",
+      "research"
+    ]
+  },
+  {
+    "family_id": 265,
+    "size": 9,
+    "mean_sim": 0.551792562007904,
+    "min_sim": 0.3208751976490021,
+    "max_sim": 0.7727959752082825,
+    "tightness": "loose",
+    "rep_skills": [
+      "maximus-deep-research",
+      "deep-research",
+      "deep-ass-research"
+    ]
+  },
+  {
+    "family_id": 266,
+    "size": 5,
+    "mean_sim": 0.8742512464523315,
+    "min_sim": 0.7318902611732483,
+    "max_sim": 0.9582830667495728,
+    "tightness": "tight",
+    "rep_skills": [
+      "agent-browser",
+      "agent-browser",
+      "agent-browser"
+    ]
+  },
+  {
+    "family_id": 267,
+    "size": 4,
+    "mean_sim": 0.6426183581352234,
+    "min_sim": 0.5485930442810059,
+    "max_sim": 0.7257110476493835,
+    "tightness": "loose",
+    "rep_skills": [
+      "azure-infrastructure",
+      "drift-detector",
+      "Terraform State Forensics Tool"
+    ]
+  },
+  {
+    "family_id": 268,
+    "size": 6,
+    "mean_sim": 0.63954097032547,
+    "min_sim": 0.559445858001709,
+    "max_sim": 0.849151074886322,
+    "tightness": "loose",
+    "rep_skills": [
+      "terraform-test",
+      "terraform-iac-expert",
+      "building-terraform-modules"
+    ]
+  },
+  {
+    "family_id": 269,
+    "size": 4,
+    "mean_sim": 0.5549741387367249,
+    "min_sim": 0.4000573754310608,
+    "max_sim": 0.6769261360168457,
+    "tightness": "loose",
+    "rep_skills": [
+      "code-refactor-executor",
+      "memtrace-refactoring-guide",
+      "refactor-audit"
+    ]
+  },
+  {
+    "family_id": 270,
+    "size": 3,
+    "mean_sim": 0.6880338191986084,
+    "min_sim": 0.5872528553009033,
+    "max_sim": 0.8875081539154053,
+    "tightness": "loose",
+    "rep_skills": [
+      "playwright-cli",
+      "agent-browser",
+      "agent-browser"
+    ]
+  },
+  {
+    "family_id": 271,
+    "size": 3,
+    "mean_sim": 0.8872873187065125,
+    "min_sim": 0.8672558069229126,
+    "max_sim": 0.9120537638664246,
+    "tightness": "tight",
+    "rep_skills": [
+      "browser-use",
+      "browser-use",
+      "browser-use"
+    ]
+  },
+  {
+    "family_id": 272,
+    "size": 19,
+    "mean_sim": 0.6399626731872559,
+    "min_sim": 0.3212088644504547,
+    "max_sim": 0.8807576298713684,
+    "tightness": "loose",
+    "rep_skills": [
+      "scanning-accessibility",
+      "web-accessibility",
+      "mobile-accessibility"
+    ]
+  },
+  {
+    "family_id": 273,
+    "size": 4,
+    "mean_sim": 0.9635710716247559,
+    "min_sim": 0.9271423816680908,
+    "max_sim": 0.9999998807907104,
+    "tightness": "tight",
+    "rep_skills": [
+      "ui-ux-pro-max",
+      "ui-ux-pro-max",
+      "ui-ux-pro-max"
+    ]
+  },
+  {
+    "family_id": 274,
+    "size": 3,
+    "mean_sim": 0.5075510144233704,
+    "min_sim": 0.4452427923679352,
+    "max_sim": 0.575244665145874,
+    "tightness": "loose",
+    "rep_skills": [
+      "skill-creator",
+      "minimalchange",
+      "opencode-research"
+    ]
+  },
+  {
+    "family_id": 275,
+    "size": 3,
+    "mean_sim": 0.7909906506538391,
+    "min_sim": 0.7066981196403503,
+    "max_sim": 0.9118556380271912,
+    "tightness": "loose",
+    "rep_skills": [
+      "ckm:ui-styling",
+      "ui-styling",
+      "Tailwind CSS Design System"
+    ]
+  },
+  {
+    "family_id": 276,
+    "size": 7,
+    "mean_sim": 0.6880456209182739,
+    "min_sim": 0.4984397292137146,
+    "max_sim": 0.8214454650878906,
+    "tightness": "loose",
+    "rep_skills": [
+      "tailwind",
+      "tailwind-configuration",
+      "frontend-style-layout"
+    ]
+  },
+  {
+    "family_id": 277,
+    "size": 5,
+    "mean_sim": 0.9191471338272095,
+    "min_sim": 0.8598244190216064,
+    "max_sim": 0.9920695424079895,
+    "tightness": "tight",
+    "rep_skills": [
+      "climate-advanced-27",
+      "climate-expert-83",
+      "climate-specialized-skill-31"
+    ]
+  },
+  {
+    "family_id": 278,
+    "size": 6,
+    "mean_sim": 0.9112176299095154,
+    "min_sim": 0.8384511470794678,
+    "max_sim": 0.9901715517044067,
+    "tightness": "tight",
+    "rep_skills": [
+      "product-expert-102",
+      "writing-expert-46",
+      "writing-expert-59"
+    ]
+  },
+  {
+    "family_id": 279,
+    "size": 5,
+    "mean_sim": 0.5093685388565063,
+    "min_sim": 0.3259815275669098,
+    "max_sim": 0.7684845924377441,
+    "tightness": "loose",
+    "rep_skills": [
+      "Mobile App Builder",
+      "react-native-design",
+      "argent-react-native-optimization"
+    ]
+  },
+  {
+    "family_id": 280,
+    "size": 3,
+    "mean_sim": 0.9848506450653076,
+    "min_sim": 0.979698657989502,
+    "max_sim": 0.9886245131492615,
+    "tightness": "tight",
+    "rep_skills": [
+      "spatial-expert-123",
+      "spatial-expert-31",
+      "spatial-expert-210"
+    ]
+  },
+  {
+    "family_id": 281,
+    "size": 3,
+    "mean_sim": 0.9869341254234314,
+    "min_sim": 0.9864037036895752,
+    "max_sim": 0.9879130125045776,
+    "tightness": "tight",
+    "rep_skills": [
+      "spatial-specialized-skill-271",
+      "spatial-specialized-skill-158",
+      "spatial-specialized-skill-58"
+    ]
+  },
+  {
+    "family_id": 282,
+    "size": 4,
+    "mean_sim": 0.9572634100914001,
+    "min_sim": 0.9201073050498962,
+    "max_sim": 0.9896214008331299,
+    "tightness": "tight",
+    "rep_skills": [
+      "product-specialized-skill-97",
+      "product-specialized-skill-69",
+      "product-specialized-skill-108"
+    ]
+  },
+  {
+    "family_id": 283,
+    "size": 3,
+    "mean_sim": 0.9789503216743469,
+    "min_sim": 0.9692482352256775,
+    "max_sim": 0.9928395748138428,
+    "tightness": "tight",
+    "rep_skills": [
+      "education-specialized-skill-231",
+      "education-specialized-skill-210",
+      "education-specialized-skill-74"
+    ]
+  },
+  {
+    "family_id": 284,
+    "size": 4,
+    "mean_sim": 0.8805107474327087,
+    "min_sim": 0.7682971954345703,
+    "max_sim": 1.0000003576278687,
+    "tightness": "tight",
+    "rep_skills": [
+      "sunnydata-parallel-agents",
+      "dispatching-parallel-agents",
+      "dispatching-parallel-agents"
+    ]
+  },
+  {
+    "family_id": 285,
+    "size": 3,
+    "mean_sim": 0.49592939019203186,
+    "min_sim": 0.3720894455909729,
+    "max_sim": 0.676376461982727,
+    "tightness": "loose",
+    "rep_skills": [
+      "test-quality",
+      "test-writer",
+      "jcb-junit"
+    ]
+  },
+  {
+    "family_id": 286,
+    "size": 7,
+    "mean_sim": 0.8452776074409485,
+    "min_sim": 0.5701400637626648,
+    "max_sim": 0.9976968765258789,
+    "tightness": "tight",
+    "rep_skills": [
+      "mm-improve-codebase-architecture",
+      "improve-codebase-architecture",
+      "improve-codebase-architecture"
+    ]
+  },
+  {
+    "family_id": 287,
+    "size": 4,
+    "mean_sim": 0.5937293171882629,
+    "min_sim": 0.3968033790588379,
+    "max_sim": 0.7328054308891296,
+    "tightness": "loose",
+    "rep_skills": [
+      "build-fix",
+      "the-linter",
+      "eslint-gen"
+    ]
+  },
+  {
+    "family_id": 288,
+    "size": 3,
+    "mean_sim": 0.6819247603416443,
+    "min_sim": 0.6041498184204102,
+    "max_sim": 0.7438462972640991,
+    "tightness": "loose",
+    "rep_skills": [
+      "codex",
+      "codex-cli",
+      "codex"
+    ]
+  },
+  {
+    "family_id": 289,
+    "size": 6,
+    "mean_sim": 0.5205650925636292,
+    "min_sim": 0.38004887104034424,
+    "max_sim": 0.6743898391723633,
+    "tightness": "loose",
+    "rep_skills": [
+      "aliyun-clawscan",
+      "tinman",
+      "openclaw-team"
+    ]
+  },
+  {
+    "family_id": 290,
+    "size": 3,
+    "mean_sim": 0.9084767699241638,
+    "min_sim": 0.8627151250839233,
+    "max_sim": 1.0,
+    "tightness": "tight",
+    "rep_skills": [
+      "setup-matt-pocock-skills",
+      "setup-matt-pocock-skills",
+      "setup-matt-pocock-skills"
+    ]
+  },
+  {
+    "family_id": 291,
+    "size": 3,
+    "mean_sim": 0.7100307941436768,
+    "min_sim": 0.696933388710022,
+    "max_sim": 0.7228928208351135,
+    "tightness": "loose",
+    "rep_skills": [
+      "oc-disposable-email-for-agents",
+      "agenticmail",
+      "agentmail-integration"
+    ]
+  },
+  {
+    "family_id": 292,
+    "size": 3,
+    "mean_sim": 0.7360129356384277,
+    "min_sim": 0.7044824361801147,
+    "max_sim": 0.7520109415054321,
+    "tightness": "loose",
+    "rep_skills": [
+      "slop-cleanup",
+      "deslop",
+      "deslop"
+    ]
+  },
+  {
+    "family_id": 293,
+    "size": 9,
+    "mean_sim": 0.6183763146400452,
+    "min_sim": 0.4052288830280304,
+    "max_sim": 0.9381133913993835,
+    "tightness": "loose",
+    "rep_skills": [
+      "m365-agents-ts",
+      "m365-agents-dotnet",
+      "agent-worker"
+    ]
+  },
+  {
+    "family_id": 294,
+    "size": 9,
+    "mean_sim": 0.6599540114402771,
+    "min_sim": 0.45034337043762207,
+    "max_sim": 0.9401751756668091,
+    "tightness": "loose",
+    "rep_skills": [
+      "rust-skills",
+      "Rust Pro",
+      "writing-rust"
+    ]
+  },
+  {
+    "family_id": 295,
+    "size": 8,
+    "mean_sim": 0.5726736187934875,
+    "min_sim": 0.318336546421051,
+    "max_sim": 0.8131921887397766,
+    "tightness": "loose",
+    "rep_skills": [
+      "docker-expert",
+      "kubernetes-architect",
+      "docker-patterns"
+    ]
+  },
+  {
+    "family_id": 296,
+    "size": 8,
+    "mean_sim": 0.5418421030044556,
+    "min_sim": 0.36764442920684814,
+    "max_sim": 0.7014766931533813,
+    "tightness": "loose",
+    "rep_skills": [
+      "oci-standards",
+      "generating-docker-compose-files",
+      "dockerfile-validator"
+    ]
+  },
+  {
+    "family_id": 297,
+    "size": 5,
+    "mean_sim": 0.5867167711257935,
+    "min_sim": 0.4293200671672821,
+    "max_sim": 0.7169280052185059,
+    "tightness": "loose",
+    "rep_skills": [
+      "openclaw-medicine",
+      "agent-health-diagnostics",
+      "openclaw-config"
+    ]
+  },
+  {
+    "family_id": 298,
+    "size": 3,
+    "mean_sim": 0.43164196610450745,
+    "min_sim": 0.3011259436607361,
+    "max_sim": 0.6634607315063477,
+    "tightness": "loose",
+    "rep_skills": [
+      "visual-emotion-engineer",
+      "emotional-arc-designer",
+      "skill-name"
+    ]
+  },
+  {
+    "family_id": 299,
+    "size": 14,
+    "mean_sim": 0.5601369738578796,
+    "min_sim": 0.3706417381763458,
+    "max_sim": 0.733906090259552,
+    "tightness": "loose",
+    "rep_skills": [
+      "oh-my-claudecode",
+      "oh-my-hermes",
+      "compose-agents"
+    ]
+  },
+  {
+    "family_id": 300,
+    "size": 5,
+    "mean_sim": 0.714114785194397,
+    "min_sim": 0.5592081546783447,
+    "max_sim": 0.883262038230896,
+    "tightness": "loose",
+    "rep_skills": [
+      "owasp-www-project-scan-it",
+      "owasp-www-chapter-cali",
+      "owasp-www-chapter-indian-institute-of-information-technology-kottayam"
+    ]
+  },
+  {
+    "family_id": 301,
+    "size": 6,
+    "mean_sim": 0.6849335432052612,
+    "min_sim": 0.5234663486480713,
+    "max_sim": 0.7936669588088989,
+    "tightness": "loose",
+    "rep_skills": [
+      "prompt-writing",
+      "create-prompt",
+      "prompt-master"
+    ]
+  },
+  {
+    "family_id": 302,
+    "size": 6,
+    "mean_sim": 0.5591829419136047,
+    "min_sim": 0.3476754426956177,
+    "max_sim": 0.8673248291015625,
+    "tightness": "loose",
+    "rep_skills": [
+      "doc",
+      "t1k:docs",
+      "gsd-docs-update"
+    ]
+  },
+  {
+    "family_id": 303,
+    "size": 4,
+    "mean_sim": 0.5894301533699036,
+    "min_sim": 0.49254435300827026,
+    "max_sim": 0.6914585828781128,
+    "tightness": "loose",
+    "rep_skills": [
+      "test-skill",
+      "test-skill",
+      "example"
+    ]
+  },
+  {
+    "family_id": 304,
+    "size": 7,
+    "mean_sim": 0.5719760060310364,
+    "min_sim": 0.43082720041275024,
+    "max_sim": 0.7852002382278442,
+    "tightness": "loose",
+    "rep_skills": [
+      "triaging-error-issues",
+      "triage",
+      "github-triage"
+    ]
+  },
+  {
+    "family_id": 305,
+    "size": 3,
+    "mean_sim": 0.7532994151115417,
+    "min_sim": 0.7261862754821777,
+    "max_sim": 0.8033488392829895,
+    "tightness": "loose",
+    "rep_skills": [
+      "claude-hooks-reference-2026",
+      "writing-hooks",
+      "hook-development"
+    ]
+  },
+  {
+    "family_id": 306,
+    "size": 3,
+    "mean_sim": 0.6173140406608582,
+    "min_sim": 0.4364425539970398,
+    "max_sim": 0.9549172520637512,
+    "tightness": "loose",
+    "rep_skills": [
+      "gsd-inbox",
+      "k2",
+      "gsd-inbox"
+    ]
+  },
+  {
+    "family_id": 307,
+    "size": 6,
+    "mean_sim": 0.6336639523506165,
+    "min_sim": 0.49679961800575256,
+    "max_sim": 0.7715452909469604,
+    "tightness": "loose",
+    "rep_skills": [
+      "security-audit",
+      "security-auditor",
+      "secure-code-guardian"
+    ]
+  },
+  {
+    "family_id": 308,
+    "size": 7,
+    "mean_sim": 0.7757158875465393,
+    "min_sim": 0.595468282699585,
+    "max_sim": 0.9720937013626099,
+    "tightness": "loose",
+    "rep_skills": [
+      "writing-skills",
+      "writing-skills",
+      "writing-skills"
+    ]
+  },
+  {
+    "family_id": 309,
+    "size": 3,
+    "mean_sim": 0.5335205793380737,
+    "min_sim": 0.4869731664657593,
+    "max_sim": 0.6169867515563965,
+    "tightness": "loose",
+    "rep_skills": [
+      "skill-check",
+      "skill-judge",
+      "skill-cleaner"
+    ]
+  },
+  {
+    "family_id": 310,
+    "size": 7,
+    "mean_sim": 0.5745927691459656,
+    "min_sim": 0.41383397579193115,
+    "max_sim": 0.8426204323768616,
+    "tightness": "loose",
+    "rep_skills": [
+      "test-driven-development",
+      "refactoring-patterns",
+      "Refactoring"
+    ]
+  },
+  {
+    "family_id": 311,
+    "size": 8,
+    "mean_sim": 0.6890881657600403,
+    "min_sim": 0.578168511390686,
+    "max_sim": 0.8120512962341309,
+    "tightness": "loose",
+    "rep_skills": [
+      "claude-code",
+      "manage-agents",
+      "claude-agent-sdk-dev"
+    ]
+  },
+  {
+    "family_id": 312,
+    "size": 3,
+    "mean_sim": 0.6737200617790222,
+    "min_sim": 0.6208915710449219,
+    "max_sim": 0.7278409004211426,
+    "tightness": "loose",
+    "rep_skills": [
+      "plugin-authoring-guide",
+      "using-skillpack-maintenance",
+      "validate"
+    ]
+  },
+  {
+    "family_id": 313,
+    "size": 17,
+    "mean_sim": 0.6448765993118286,
+    "min_sim": 0.43112510442733765,
+    "max_sim": 0.9465631246566772,
+    "tightness": "loose",
+    "rep_skills": [
+      "pytest",
+      "pytest-aithena-patterns",
+      "pytest"
+    ]
+  },
+  {
+    "family_id": 314,
+    "size": 9,
+    "mean_sim": 0.8119730353355408,
+    "min_sim": 0.659111738204956,
+    "max_sim": 1.000000238418579,
+    "tightness": "tight",
+    "rep_skills": [
+      "skill-creator",
+      "skill-creator",
+      "skill-iterate"
+    ]
+  },
+  {
+    "family_id": 315,
+    "size": 4,
+    "mean_sim": 0.7118103504180908,
+    "min_sim": 0.5333022475242615,
+    "max_sim": 0.9223357439041138,
+    "tightness": "loose",
+    "rep_skills": [
+      "skill-development",
+      "skill-manager",
+      "Skill Development"
+    ]
+  },
+  {
+    "family_id": 316,
+    "size": 4,
+    "mean_sim": 0.8616254925727844,
+    "min_sim": 0.824472188949585,
+    "max_sim": 0.9393630027770996,
+    "tightness": "tight",
+    "rep_skills": [
+      "skill-creator",
+      "skill-creator",
+      "skill-creator"
+    ]
+  },
+  {
+    "family_id": 317,
+    "size": 4,
+    "mean_sim": 0.9114170670509338,
+    "min_sim": 0.8387628197669983,
+    "max_sim": 0.9636342525482178,
+    "tightness": "tight",
+    "rep_skills": [
+      "skill-creator",
+      "skill-creator",
+      "skill-creator"
+    ]
+  },
+  {
+    "family_id": 318,
+    "size": 3,
+    "mean_sim": 0.5006720423698425,
+    "min_sim": 0.4379504919052124,
+    "max_sim": 0.5934457778930664,
+    "tightness": "loose",
+    "rep_skills": [
+      "test-specialist",
+      "tdd-workflow",
+      "Tester"
+    ]
+  },
+  {
+    "family_id": 319,
+    "size": 3,
+    "mean_sim": 0.6194412112236023,
+    "min_sim": 0.5267196893692017,
+    "max_sim": 0.6671356558799744,
+    "tightness": "loose",
+    "rep_skills": [
+      "agent-qa-expert",
+      "senior-qa",
+      "SQAMockInterview"
+    ]
+  },
+  {
+    "family_id": 320,
+    "size": 4,
+    "mean_sim": 0.8933295607566833,
+    "min_sim": 0.7909924387931824,
+    "max_sim": 0.9596309065818787,
+    "tightness": "tight",
+    "rep_skills": [
+      "plan-design-review",
+      "plan-design-review",
+      "plan-design-review"
+    ]
+  },
+  {
+    "family_id": 321,
+    "size": 4,
+    "mean_sim": 0.8760306239128113,
+    "min_sim": 0.7891034483909607,
+    "max_sim": 1.0,
+    "tightness": "tight",
+    "rep_skills": [
+      "design-consultation",
+      "design-consultation",
+      "design-consultation"
+    ]
+  },
+  {
+    "family_id": 322,
+    "size": 8,
+    "mean_sim": 0.5825265645980835,
+    "min_sim": 0.36779558658599854,
+    "max_sim": 0.7248057723045349,
+    "tightness": "loose",
+    "rep_skills": [
+      "monitoring-expert",
+      "deploying-monitoring-stacks",
+      "grafana-tst"
+    ]
+  },
+  {
+    "family_id": 323,
+    "size": 3,
+    "mean_sim": 0.5405837893486023,
+    "min_sim": 0.4862290918827057,
+    "max_sim": 0.5701042413711548,
+    "tightness": "loose",
+    "rep_skills": [
+      "web-fetch",
+      "researching-topics",
+      "team-shinchan:research"
+    ]
+  },
+  {
+    "family_id": 324,
+    "size": 14,
+    "mean_sim": 0.6341444849967957,
+    "min_sim": 0.2756144404411316,
+    "max_sim": 0.8556119203567505,
+    "tightness": "loose",
+    "rep_skills": [
+      "tdd",
+      "tdd",
+      "hai-tdd"
+    ]
+  },
+  {
+    "family_id": 325,
+    "size": 3,
+    "mean_sim": 0.7922568321228027,
+    "min_sim": 0.7195569276809692,
+    "max_sim": 0.9239654541015625,
+    "tightness": "loose",
+    "rep_skills": [
+      "deprecation-and-migration",
+      "deprecation-and-migration",
+      "deprecation-and-migration"
+    ]
+  },
+  {
+    "family_id": 326,
+    "size": 7,
+    "mean_sim": 0.6479339003562927,
+    "min_sim": 0.5659267902374268,
+    "max_sim": 0.757303774356842,
+    "tightness": "loose",
+    "rep_skills": [
+      "generate-openapi-spec",
+      "openapi-to-application-code",
+      "api-documenter"
+    ]
+  },
+  {
+    "family_id": 327,
+    "size": 3,
+    "mean_sim": 0.5471802353858948,
+    "min_sim": 0.4647098779678345,
+    "max_sim": 0.6963289976119995,
+    "tightness": "loose",
+    "rep_skills": [
+      "docx",
+      "docx-official",
+      "learned-docs"
+    ]
+  },
+  {
+    "family_id": 328,
+    "size": 5,
+    "mean_sim": 0.7376099824905396,
+    "min_sim": 0.6180696487426758,
+    "max_sim": 0.8436788320541382,
+    "tightness": "loose",
+    "rep_skills": [
+      "document",
+      "code-documentation",
+      "documentation-generator"
+    ]
+  },
+  {
+    "family_id": 329,
+    "size": 3,
+    "mean_sim": 0.9313947558403015,
+    "min_sim": 0.8970919847488403,
+    "max_sim": 1.0000001192092896,
+    "tightness": "tight",
+    "rep_skills": [
+      "doc-coauthoring",
+      "doc-coauthoring",
+      "doc-coauthoring"
+    ]
+  },
+  {
+    "family_id": 330,
+    "size": 4,
+    "mean_sim": 0.44401490688323975,
+    "min_sim": 0.32268571853637695,
+    "max_sim": 0.5159685611724854,
+    "tightness": "loose",
+    "rep_skills": [
+      "always-works",
+      "qa-check",
+      "deployment-playbook"
+    ]
+  },
+  {
+    "family_id": 331,
+    "size": 13,
+    "mean_sim": 0.5883335471153259,
+    "min_sim": 0.37800073623657227,
+    "max_sim": 0.8893042802810669,
+    "tightness": "loose",
+    "rep_skills": [
+      "deployment-strategies",
+      "ci-config-helper",
+      "CI/CD Pipeline Mastery"
+    ]
+  },
+  {
+    "family_id": 332,
+    "size": 4,
+    "mean_sim": 0.7140039801597595,
+    "min_sim": 0.5447673797607422,
+    "max_sim": 0.8651090264320374,
+    "tightness": "loose",
+    "rep_skills": [
+      "sdd-spec",
+      "sdd-design",
+      "sdd-spec"
+    ]
+  },
+  {
+    "family_id": 333,
+    "size": 3,
+    "mean_sim": 0.7310647368431091,
+    "min_sim": 0.6013917326927185,
+    "max_sim": 0.9767688512802124,
+    "tightness": "loose",
+    "rep_skills": [
+      "speckit-implement",
+      "speckit-implement",
+      "spec-impl"
+    ]
+  },
+  {
+    "family_id": 334,
+    "size": 3,
+    "mean_sim": 0.636817455291748,
+    "min_sim": 0.5823735594749451,
+    "max_sim": 0.7393439412117004,
+    "tightness": "loose",
+    "rep_skills": [
+      "draft-user-story",
+      "requirements",
+      "user-story-generator"
+    ]
+  },
+  {
+    "family_id": 335,
+    "size": 8,
+    "mean_sim": 0.638964056968689,
+    "min_sim": 0.4528263807296753,
+    "max_sim": 0.8291196823120117,
+    "tightness": "loose",
+    "rep_skills": [
+      "architecture-decision-records",
+      "create-adr",
+      "arc42-docs"
+    ]
+  },
+  {
+    "family_id": 336,
+    "size": 6,
+    "mean_sim": 0.8480064272880554,
+    "min_sim": 0.7265099883079529,
+    "max_sim": 1.0,
+    "tightness": "tight",
+    "rep_skills": [
+      "subagent-driven-development",
+      "subagent-driven-development",
+      "subagent-driven-development"
+    ]
+  },
+  {
+    "family_id": 337,
+    "size": 3,
+    "mean_sim": 0.8755592703819275,
+    "min_sim": 0.8495180606842041,
+    "max_sim": 0.9108973741531372,
+    "tightness": "tight",
+    "rep_skills": [
+      "executing-plans",
+      "executing-plans",
+      "executing-plans"
+    ]
+  },
+  {
+    "family_id": 338,
+    "size": 3,
+    "mean_sim": 0.708394467830658,
+    "min_sim": 0.571102499961853,
+    "max_sim": 0.9009703993797302,
+    "tightness": "loose",
+    "rep_skills": [
+      "speckit-plan",
+      "reverse-document",
+      "speckit-plan"
+    ]
+  },
+  {
+    "family_id": 339,
+    "size": 5,
+    "mean_sim": 0.7091426253318787,
+    "min_sim": 0.5529791116714478,
+    "max_sim": 0.9511465430259705,
+    "tightness": "loose",
+    "rep_skills": [
+      "debugging",
+      "arc-debugging",
+      "systematic-debugging"
+    ]
+  },
+  {
+    "family_id": 340,
+    "size": 5,
+    "mean_sim": 0.5706849694252014,
+    "min_sim": 0.4271810054779053,
+    "max_sim": 0.7448534965515137,
+    "tightness": "loose",
+    "rep_skills": [
+      "write-plan",
+      "speckit-plan",
+      "speckit-plan"
+    ]
+  },
+  {
+    "family_id": 341,
+    "size": 6,
+    "mean_sim": 0.847916305065155,
+    "min_sim": 0.7397023439407349,
+    "max_sim": 0.9646159410476685,
+    "tightness": "tight",
+    "rep_skills": [
+      "writing-plans",
+      "writing-plans",
+      "writing-plans"
+    ]
+  },
+  {
+    "family_id": 342,
+    "size": 8,
+    "mean_sim": 0.7649658918380737,
+    "min_sim": 0.5646045207977295,
+    "max_sim": 0.9815764427185059,
+    "tightness": "loose",
+    "rep_skills": [
+      "brainstorm",
+      "brainstorming",
+      "lemurOS:brainstorming"
+    ]
+  },
+  {
+    "family_id": 343,
+    "size": 3,
+    "mean_sim": 0.599867582321167,
+    "min_sim": 0.5333276987075806,
+    "max_sim": 0.6677119731903076,
+    "tightness": "loose",
+    "rep_skills": [
+      "design-audit",
+      "audit-workflow",
+      "quality-gate"
+    ]
+  },
+  {
+    "family_id": 344,
+    "size": 3,
+    "mean_sim": 0.617950439453125,
+    "min_sim": 0.48870229721069336,
+    "max_sim": 0.8588794469833374,
+    "tightness": "loose",
+    "rep_skills": [
+      "portfolio-codebase-patterns",
+      "nextjs-app-router-patterns",
+      "nextjs"
+    ]
+  },
+  {
+    "family_id": 345,
+    "size": 18,
+    "mean_sim": 0.6195194721221924,
+    "min_sim": 0.41160067915916443,
+    "max_sim": 0.875382125377655,
+    "tightness": "loose",
+    "rep_skills": [
+      "bugfix",
+      "debugging",
+      "whip-debug"
+    ]
+  },
+  {
+    "family_id": 346,
+    "size": 6,
+    "mean_sim": 0.4899463653564453,
+    "min_sim": 0.3371109962463379,
+    "max_sim": 0.7299765348434448,
+    "tightness": "loose",
+    "rep_skills": [
+      "systematic-debugging",
+      "fix-test-failures",
+      "creating-debug-tests-and-iterating"
+    ]
+  },
+  {
+    "family_id": 347,
+    "size": 5,
+    "mean_sim": 0.6430766582489014,
+    "min_sim": 0.4376567602157593,
+    "max_sim": 0.7593015432357788,
+    "tightness": "loose",
+    "rep_skills": [
+      "testing",
+      "vitest-testing",
+      "javascript-typescript-vitest-jest"
+    ]
+  },
+  {
+    "family_id": 348,
+    "size": 7,
+    "mean_sim": 0.6679347157478333,
+    "min_sim": 0.4901256263256073,
+    "max_sim": 0.9872310161590576,
+    "tightness": "loose",
+    "rep_skills": [
+      "react-best-practices",
+      "react-best-practices",
+      "react-performance"
+    ]
+  },
+  {
+    "family_id": 349,
+    "size": 6,
+    "mean_sim": 0.6707537770271301,
+    "min_sim": 0.5477129817008972,
+    "max_sim": 0.8620659112930298,
+    "tightness": "loose",
+    "rep_skills": [
+      "senior-frontend",
+      "senior-frontend",
+      "frontend-coding"
+    ]
+  },
+  {
+    "family_id": 350,
+    "size": 5,
+    "mean_sim": 0.6385375261306763,
+    "min_sim": 0.40213868021965027,
+    "max_sim": 0.7808248996734619,
+    "tightness": "loose",
+    "rep_skills": [
+      "gh-issues",
+      "pr-fix",
+      "address-pr-comments"
+    ]
+  },
+  {
+    "family_id": 351,
+    "size": 4,
+    "mean_sim": 0.7859756946563721,
+    "min_sim": 0.7053459882736206,
+    "max_sim": 0.8881322145462036,
+    "tightness": "loose",
+    "rep_skills": [
+      "frontend-design",
+      "frontend-design",
+      "innovative-ux-designer"
+    ]
+  },
+  {
+    "family_id": 352,
+    "size": 5,
+    "mean_sim": 0.8022635579109192,
+    "min_sim": 0.5648314356803894,
+    "max_sim": 0.9986646175384521,
+    "tightness": "tight",
+    "rep_skills": [
+      "impeccable",
+      "impeccable",
+      "impeccable"
+    ]
+  },
+  {
+    "family_id": 353,
+    "size": 20,
+    "mean_sim": 0.5500916838645935,
+    "min_sim": 0.23182028532028198,
+    "max_sim": 0.9481737613677979,
+    "tightness": "loose",
+    "rep_skills": [
+      "typescript-developer",
+      "typescript-strict",
+      "code-reviewer"
+    ]
+  },
+  {
+    "family_id": 354,
+    "size": 4,
+    "mean_sim": 0.7087014317512512,
+    "min_sim": 0.6523580551147461,
+    "max_sim": 0.8012621402740479,
+    "tightness": "loose",
+    "rep_skills": [
+      "changelog-maintenance",
+      "changelogator",
+      "managing-changelog"
+    ]
+  },
+  {
+    "family_id": 355,
+    "size": 3,
+    "mean_sim": 0.6204177141189575,
+    "min_sim": 0.5862370729446411,
+    "max_sim": 0.6573061347007751,
+    "tightness": "loose",
+    "rep_skills": [
+      "code-review:review-pr",
+      "code-review",
+      "review-pr"
+    ]
+  },
+  {
+    "family_id": 356,
+    "size": 14,
+    "mean_sim": 0.6293659210205078,
+    "min_sim": 0.3473992347717285,
+    "max_sim": 0.8516734838485718,
+    "tightness": "loose",
+    "rep_skills": [
+      "github-code-review",
+      "github-cli",
+      "github-ops"
+    ]
+  },
+  {
+    "family_id": 357,
+    "size": 6,
+    "mean_sim": 0.7029062509536743,
+    "min_sim": 0.5662508010864258,
+    "max_sim": 0.8508707284927368,
+    "tightness": "loose",
+    "rep_skills": [
+      "worktree-tending",
+      "git-worktree",
+      "git-worktree"
+    ]
+  },
+  {
+    "family_id": 358,
+    "size": 9,
+    "mean_sim": 0.6691007018089294,
+    "min_sim": 0.46607115864753723,
+    "max_sim": 0.846373438835144,
+    "tightness": "loose",
+    "rep_skills": [
+      "code-reviewer",
+      "code-review",
+      "code-review-best-practices"
+    ]
+  },
+  {
+    "family_id": 359,
+    "size": 6,
+    "mean_sim": 0.49425455927848816,
+    "min_sim": 0.3125908076763153,
+    "max_sim": 0.7596297860145569,
+    "tightness": "loose",
+    "rep_skills": [
+      "security-review",
+      "code-review",
+      "code-reviewer"
+    ]
+  },
+  {
+    "family_id": 360,
+    "size": 6,
+    "mean_sim": 0.698671281337738,
+    "min_sim": 0.6078831553459167,
+    "max_sim": 0.803765594959259,
+    "tightness": "loose",
+    "rep_skills": [
+      "git-master",
+      "git-workflow",
+      "Git Workflow Expert"
+    ]
+  },
+  {
+    "family_id": 361,
+    "size": 26,
+    "mean_sim": 0.7071220278739929,
+    "min_sim": 0.4622708857059479,
+    "max_sim": 0.8806614875793457,
+    "tightness": "loose",
+    "rep_skills": [
+      "commit",
+      "git-commit",
+      "commit-message-guide"
+    ]
+  },
+  {
+    "family_id": 362,
+    "size": 3,
+    "mean_sim": 0.6759342551231384,
+    "min_sim": 0.6068065166473389,
+    "max_sim": 0.747648298740387,
+    "tightness": "loose",
+    "rep_skills": [
+      "git-workflow",
+      "aka:git",
+      "git-workflow"
+    ]
+  }
+]

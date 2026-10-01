@@ -1,0 +1,11 @@
+{
+  "total_families_processed": 100,
+  "topology_counts": {
+    "chain": 66,
+    "balanced": 30,
+    "star": 4
+  },
+  "avg_colless_index": 0.6412,
+  "avg_sackin_index": 73.84,
+  "avg_max_depth": 6.72
+}

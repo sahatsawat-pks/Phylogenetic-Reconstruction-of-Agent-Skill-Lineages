@@ -1,0 +1,140 @@
+{
+    "total_files": 29786,
+    "distinct_contents": 13000,
+    "distinct_repos": 11841,
+    "copy_rate": 0.5635533472100988,
+    "location_distribution": {
+        "canonical": 2365,
+        "other": 12539,
+        "skills-dir": 14882
+    },
+    "body_chars_histogram": {
+        "counts": [
+            12427,
+            470,
+            84,
+            21,
+            8,
+            3,
+            1,
+            1,
+            0,
+            1
+        ],
+        "bin_edges": [
+            0.0,
+            21153.5,
+            42307.0,
+            63460.5,
+            84614.0,
+            105767.5,
+            126921.0,
+            148074.5,
+            169228.0,
+            190381.5,
+            211535.0
+        ]
+    },
+    "top_20_copied_skills": [
+        {
+            "file_sha": "01a98e95f73c5e510635482d1bdc1c5048fc5484",
+            "name": null,
+            "copy_count": 188
+        },
+        {
+            "file_sha": "008168a4c9e17e7b958a206696a838dd5823cccd",
+            "name": null,
+            "copy_count": 171
+        },
+        {
+            "file_sha": "0164f7ed9b61f0214b631d72e4128e9875005cb5",
+            "name": null,
+            "copy_count": 170
+        },
+        {
+            "file_sha": "016f824d17974e5715a0e9a6e96af2001ee25e7c",
+            "name": null,
+            "copy_count": 153
+        },
+        {
+            "file_sha": "00789d535f70dce9a789fd5cb39c9e3bc4c04314",
+            "name": null,
+            "copy_count": 117
+        },
+        {
+            "file_sha": "01a2745918f06640caac60196546672b4607cde1",
+            "name": null,
+            "copy_count": 115
+        },
+        {
+            "file_sha": "007547da846438a11e812ff26bfb96929085f03c",
+            "name": null,
+            "copy_count": 104
+        },
+        {
+            "file_sha": "016d5e03af6ad3a5b90549d710e40e118296fc53",
+            "name": null,
+            "copy_count": 104
+        },
+        {
+            "file_sha": "018a21f6ed74666f030ea4995144911115e1bb0c",
+            "name": null,
+            "copy_count": 103
+        },
+        {
+            "file_sha": "0039327c41ddecf0114e8b04b8cbfc3cd365a935",
+            "name": null,
+            "copy_count": 101
+        },
+        {
+            "file_sha": "00ce4543b2fbd2456619657c328f5542569e76cd",
+            "name": null,
+            "copy_count": 101
+        },
+        {
+            "file_sha": "011ff902030b6adace0c91f9071cd2482d2286c3",
+            "name": null,
+            "copy_count": 101
+        },
+        {
+            "file_sha": "0145815d0973812020f56a0b2ef45a7a78fcaff9",
+            "name": null,
+            "copy_count": 101
+        },
+        {
+            "file_sha": "0001d5daa15353e83ba2c56053f4586c9b167ac7",
+            "name": null,
+            "copy_count": 100
+        },
+        {
+            "file_sha": "00ee72f89faa62eb33fb55c86a7c524dba60802a",
+            "name": null,
+            "copy_count": 98
+        },
+        {
+            "file_sha": "0096f521cf07f55a1a1be53ca166dc2f4a5a2839",
+            "name": null,
+            "copy_count": 97
+        },
+        {
+            "file_sha": "0025fa29925f7f914c6e1fd71effa5a040e5e2ed",
+            "name": null,
+            "copy_count": 93
+        },
+        {
+            "file_sha": "006fb0efa3b8dac98ed6c50f8c323cd3822e83f9",
+            "name": null,
+            "copy_count": 93
+        },
+        {
+            "file_sha": "002d83be164f4334ecf5e57cc1226c54287cd7aa",
+            "name": null,
+            "copy_count": 91
+        },
+        {
+            "file_sha": "0132aa14dae75d1ab3cdb6ed3e1450b66dcb4fcd",
+            "name": null,
+            "copy_count": 91
+        }
+    ]
+}
